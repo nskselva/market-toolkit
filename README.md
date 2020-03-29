@@ -106,6 +106,20 @@ Alright, here we go:
 - **[Investors Underground](https://www.youtube.com/user/investorsunderground/)**
 
 ---
+**STOCK MARKET MOVIES/DOCUMENTARIES:**
+- **[The Wolf of Wall Street](https://www.imdb.com/title/tt0993846/)**
+- **[Inside the Meltdown](https://www.imdb.com/title/tt1358314)**
+- **[Boiler Room](https://www.imdb.com/title/tt0181984/)**
+- **[Too Big to Fail](https://www.imdb.com/title/tt1742683)**
+- **[The Big Short](https://www.imdb.com/title/tt1596363)**
+- [Margin Call](https://www.imdb.com/title/tt1615147)
+- [The China Hustle](https://www.imdb.com/title/tt7215388)
+- [Inside Job](https://www.imdb.com/title/tt1645089)
+- **[Enron: The Smartest Guys in the Room](https://www.imdb.com/title/tt1016268)**
+- [Wall Street: Money Never Sleeps](https://www.imdb.com/title/tt1027718)
+- **[Dirty Money: Drug Short](https://www.imdb.com/title/tt7909184)**
+
+---
 *I've categorized Twitter accounts into two groups. In general, I've tried to restrict this list to only those that are consistently active and sharing quality content*
 
 - ***Individuals/Small Services**: These accounts are more likely to share active trading info, current market opinions, charts, trading ideas and the like, and may run chat rooms/alert/research websites or services.*
@@ -139,7 +153,7 @@ Alright, here we go:
 	 - [NYC Trader](https://twitter.com/szaman)
 	 - [Kunal Desai](https://twitter.com/kunal00)
 
- - Professional/Research-Focused/Journalists/Capital Groups/Funds/HFT:
+ - Research/Journalist/Funds/HFT:
 	 - [Hindenburg Research](https://twitter.com/HindenburgRes)
 	 - [Andrew Menaker, Ph.D.](https://twitter.com/Andrew_Menaker)
 	 - [Quoth the Raven Research](https://twitter.com/QTRResearch)
