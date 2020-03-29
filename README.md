@@ -139,7 +139,7 @@ Alright, here we go:
 	 - [NYC Trader](https://twitter.com/szaman)
 	 - [Kunal Desai](https://twitter.com/kunal00)
 
- - Research/Journalist/Funds/HFT:
+ - Professional/Research-Focused/Journalists/Capital Groups/Funds/HFT:
 	 - [Hindenburg Research](https://twitter.com/HindenburgRes)
 	 - [Andrew Menaker, Ph.D.](https://twitter.com/Andrew_Menaker)
 	 - [Quoth the Raven Research](https://twitter.com/QTRResearch)
