@@ -55,6 +55,7 @@ Alright, here we go:
 **GETTING STARTED:**
 - [Investopedia Investing Essentials](https://www.investopedia.com/investing-essentials-4689754)
 - **[LazyFA Market Essentials](https://www.youtube.com/watch?v=7pwKL_km9hg&list=PLJ94CeEi9Aa5FNL2DDsz0ePfJdpoCar9i)**
+- **[Jason Leavitt's Free Mini Masterclass in Trading](https://jason-leavitt-masterclass-in-trading.teachable.com/p/free-mini-masterclass-in-trading)**
 
 ---
 **TECHNICAL ANALYSIS:**
