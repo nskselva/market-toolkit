@@ -97,6 +97,7 @@ Alright, here we go:
 - [**One Up on Wall Street**](https://www.amazon.com/One-Up-Wall-Street-Already/dp/0743200403/)
 - [**Trading in the Zone**](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447)
 - [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
+- [How To Trade in Stocks](https://www.amazon.com/How-Trade-Stocks-Jesse-Livermore-ebook/dp/B0062Y79M0)
 - **[/r/SecurityAnalysis Wiki](https://www.reddit.com/r/SecurityAnalysis/wiki/index)**
 
 ---
