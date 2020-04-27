@@ -13,7 +13,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 # <a id="toc"></a>Table of Contents:
 - [BROKERS & TRADING SOFTWARE](#brokers)
 	- [Investing/Long-term](#brokers-investing)
-	- [Active trading/Professional](#brokers-active)
+	- [Active Trading/Professional](#brokers-active)
 	- [Canadian](#brokers-canadian)
 	- [European](#brokers-european)
 	- [Reviews](#brokers-reviews)
