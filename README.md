@@ -2,6 +2,7 @@
 
 
 
+
 # THE ULTIMATE STOCK MARKET TOOLKIT
 Over the years I've amassed a large collection of links, resources, tools and so on that I find useful in my trading/investing activities. I'm compiling those here, along with any that were shared with me via Twitter/Reddit/email/etc and seemed useful after a cursory look. While I've done my best to link to tools that are not only legitimate but also likely to stay active, alive and useful for the foreseeable future, obviously I have no control over these companies/websites and over time some of the links may break or situations may emerge that turn them into poor recommendations. Also, this list is not exhaustive by any means and may be updated in the future as new tools/resources emerge.
 
@@ -11,21 +12,21 @@ Over the years I've amassed a large collection of links, resources, tools and so
 
 *Any links that are **bold** are things I either currently use or have used enough in the past to get a good feel for their quality/functionality, but that does not mean I am recommending them, only that I have personal experience with them. If it is not bold, it doesn't mean I've never used it, only that it's something I just use now and then or that it seemed handy at a cursory glance. In short regarding this entire thread, I am not a financial advisor. **Do your own due diligence and speak to a professional before making any financial decisions.***
 # <a id="toc"></a>Table of Contents:
+- [GETTING STARTED](#getting-started)
 - [BROKERS & TRADING SOFTWARE](#brokers)
 	- [Investing/Long-term](#brokers-investing)
 	- [Active Trading/Professional](#brokers-active)
 	- [Canadian](#brokers-canadian)
 	- [European](#brokers-european)
 	- [Reviews](#brokers-reviews)
-- [SCANNERS, SCREENERS & IDEA GENERATION](#scanners)
-- [TRADE ANALYSIS & REVIEW](#trade-analysis)
-- [GETTING STARTED](#getting-started)
 - [TECHNICAL ANALYSIS](#ta-education)
 	- [Education](#ta-education)
 	- [Tools](#ta-tools)
 - [FUNDAMENTAL ANALYSIS](#fa-education)
 	- [Education](#fa-education)
 	- [Tools](#fa-tools)
+- [SCANNERS, SCREENERS & IDEA GENERATION](#scanners)
+- [TRADE ANALYSIS & REVIEW](#trade-analysis)
 - [SEC FILINGS](#filings)
 - [PAID TRADING SERVICES/EDUCATION/CHAT ROOMS](#paid)
 - [BOOKS](#books)
@@ -35,9 +36,29 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [TWITTER ACCOUNTS](#twitter)
 	- [Individual Accounts](#twitter-individual)
 	- [Research Focus](#twitter-research)
+- [DEVELOPER RESOURCES/ALGO STUFF/APIs](#developers)
 - [BLOGS/DISCUSSION FORUMS/MISC RESOURCES](#blogs)
 ---
-
+**<a id="getting-started"></a>GETTING STARTED:**
+- **[Investopedia - How to Start Investing in Stocks](https://www.investopedia.com/articles/basics/06/invest1000.asp)**
+- [Fundamentals of Active Trading](https://youtu.be/TprZoVbfZ18)
+- [Five Things to Look for on Every Trade](https://www.youtube.com/watch?v=d1cSG-6GIlU)
+- **[LazyFA Market Essentials](https://www.youtube.com/watch?v=7pwKL_km9hg&list=PLJ94CeEi9Aa5FNL2DDsz0ePfJdpoCar9i)**
+- **[The Balance - Investing for Beginners](https://www.thebalance.com/investing-for-beginners-4074004)**
+- [The Balance - Understanding Interest Rates](https://www.thebalance.com/what-is-interest-315436)
+- **[The Federal Open Who?](https://www.lazyfa.com/blog/2015/06/21/federal-open-who/)**
+- [Learn to Day Trade](https://www.youtube.com/watch?v=wNYdfbRZL_w&list=PLHwh3-YF4uak1x9ghKkKhAHHDwdAK-by3)
+- [/r/stocks Wiki](https://www.reddit.com/r/stocks/wiki/index)
+- [/r/stocks "Stick My Money Somewhere"](https://www.reddit.com/r/stocks/wiki/stick-my-money-somewhere)
+- [/r/investing FAQ](https://www.reddit.com/r/investing/wiki/faq)
+- **[Tim Parker - News and the Stock Market](https://www.youtube.com/watch?v=4IDG8VtYats)**
+- [Khan Academy - Stocks and Bonds](https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds)
+- [Khan Academy - Funds and Other Investment Vehicles](https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial)
+- [Investopedia Investing Essentials Category](https://www.investopedia.com/investing-essentials-4689754)
+- [Jason Leavitt's Free Mini Masterclass in Trading](https://jason-leavitt-masterclass-in-trading.teachable.com/p/free-mini-masterclass-in-trading)
+- [OptionAlpha Education Center](https://optionalpha.com/members/education)
+###### [TOC](#toc)
+---
 *<a id="brokers"></a>I've categorized brokers into two groups based on the types of clients they cater to. Long-term-focused brokers tend to offer IRAs, 401k's and other types of retirement accounts. Active trading/professional brokers tend to have more advanced software, faster executions, and cater to traders who are more active in the markets. One is not necessarily better, and many people will use both.*
 
 **<a id="brokers-investing"></a>BROKERS & TRADING SOFTWARE (Investing/Buy & Hold/IRA/Long-term):**
@@ -71,44 +92,6 @@ Over the years I've amassed a large collection of links, resources, tools and so
 
 **<a id="brokers-reviews"></a>BROKERS & TRADING SOFTWARE (Reviews and Guides):**
 - [Stockbrokers.com Investing Guides](https://www.stockbrokers.com/guides)
-###### [TOC](#toc)
----
-**<a id="scanners"></a>SCANNERS, SCREENERS & IDEA GENERATION:**
-- **[Finviz Screener](https://finviz.com/screener.ashx)**
-- **[LazyFA Screener](https://www.lazyfa.com/screener)**
-- [Tiingo Screener](https://www.tiingo.com/screener/overview)
-- **[TradingView Screener](https://www.tradingview.com/screener/)**
-- **[StockFetcher Technical Analysis Screener](https://www.stockfetcher.com)**
-- **[TC2000 Realtime Scanning/Screening](https://www.tc2000.com/)**
-- **[TradeIdeas Realtime Scanning/Screening](https://www.trade-ideas.com/)**
-- [StockCharts Predefined Scans](https://stockcharts.com/def/servlet/SC.scan)
-- [Stock Market Watch Ideas](http://thestockmarketwatch.com/ideas/)
-- [High Short Interest Stocks](https://www.highshortinterest.com/)
-- **[Shortsqueeze.com - Short Selling Resources](http://shortsqueeze.com/)**
-- [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
-###### [TOC](#toc)
----
-**<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
-- [Tradervue](https://www.tradervue.com/)
-###### [TOC](#toc)
----
-**<a id="getting-started"></a>GETTING STARTED:**
-- **[Investopedia - How to Start Investing in Stocks](https://www.investopedia.com/articles/basics/06/invest1000.asp)**
-- [Fundamentals of Active Trading](https://youtu.be/TprZoVbfZ18)
-- [Five Things to Look for on Every Trade](https://www.youtube.com/watch?v=d1cSG-6GIlU)
-- **[LazyFA Market Essentials](https://www.youtube.com/watch?v=7pwKL_km9hg&list=PLJ94CeEi9Aa5FNL2DDsz0ePfJdpoCar9i)**
-- **[The Balance - Investing for Beginners](https://www.thebalance.com/investing-for-beginners-4074004)**
-- [The Balance - Understanding Interest Rates](https://www.thebalance.com/what-is-interest-315436)
-- **[The Federal Open Who?](https://www.lazyfa.com/blog/2015/06/21/federal-open-who/)**
-- [Learn to Day Trade](https://www.youtube.com/watch?v=wNYdfbRZL_w&list=PLHwh3-YF4uak1x9ghKkKhAHHDwdAK-by3)
-- [/r/stocks Wiki](https://www.reddit.com/r/stocks/wiki/index)
-- [/r/stocks "Stick My Money Somewhere"](https://www.reddit.com/r/stocks/wiki/stick-my-money-somewhere)
-- [/r/investing FAQ](https://www.reddit.com/r/investing/wiki/faq)
-- **[Tim Parker - News and the Stock Market](https://www.youtube.com/watch?v=4IDG8VtYats)**
-- [Khan Academy - Stocks and Bonds](https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds)
-- [Khan Academy - Funds and Other Investment Vehicles](https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial)
-- [Investopedia Investing Essentials Category](https://www.investopedia.com/investing-essentials-4689754)
-- [Jason Leavitt's Free Mini Masterclass in Trading](https://jason-leavitt-masterclass-in-trading.teachable.com/p/free-mini-masterclass-in-trading)
 ###### [TOC](#toc)
 ---
 **<a id="ta-education"></a>TECHNICAL ANALYSIS (Education):**
@@ -146,6 +129,25 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [CSI Market](https://www.csimarket.com/)
 - **[StreetInsider Earnings Calendar](https://www.streetinsider.com/ec_calendar.php)**
 - **[StreetInsider EPS Insider](https://www.streetinsider.com/portal/Earnings+Insider/5.html)**
+###### [TOC](#toc)
+---
+**<a id="scanners"></a>SCANNERS, SCREENERS & IDEA GENERATION:**
+- **[Finviz Screener](https://finviz.com/screener.ashx)**
+- **[LazyFA Screener](https://www.lazyfa.com/screener)**
+- [Tiingo Screener](https://www.tiingo.com/screener/overview)
+- **[TradingView Screener](https://www.tradingview.com/screener/)**
+- **[StockFetcher Technical Analysis Screener](https://www.stockfetcher.com)**
+- **[TC2000 Realtime Scanning/Screening](https://www.tc2000.com/)**
+- **[TradeIdeas Realtime Scanning/Screening](https://www.trade-ideas.com/)**
+- [StockCharts Predefined Scans](https://stockcharts.com/def/servlet/SC.scan)
+- [Stock Market Watch Ideas](http://thestockmarketwatch.com/ideas/)
+- [High Short Interest Stocks](https://www.highshortinterest.com/)
+- **[Shortsqueeze.com - Short Selling Resources](http://shortsqueeze.com/)**
+- [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
+###### [TOC](#toc)
+---
+**<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
+- [Tradervue](https://www.tradervue.com/)
 ###### [TOC](#toc)
 ---
 **<a id="filings"></a>SEC FILINGS:**
@@ -259,6 +261,13 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	 - [Adam Feuerstein](https://twitter.com/adamfeuerstein)
 	 - [Haim Bodek](https://twitter.com/HaimBodek)
 ###### [TOC](#toc)
+---
+**<a id="developers"></a>DEVELOPER RESOURCES/ALGO STUFF/APIs:**
+- [Alpaca Algorithmic Trading](https://alpaca.markets/algotrading)
+- [Reddit /r/AlgoTrading](https://www.reddit.com/r/algotrading)
+- **[Quandl - Financial, Economic and Alternative Data](https://www.quandl.com)**
+- **[IEX Cloud - Financial Data Infrastructure](https://www.iexcloud.io)**
+- [Xignite - Market Data Solutions](https://www.xignite.com/)
 ---
 **<a id="blogs"></a>BLOGS/DISCUSSION FORUMS/MISC RESOURCES:**
 - **[Stockaholics Trader's Forum](https://www.stockaholics.net/)**
