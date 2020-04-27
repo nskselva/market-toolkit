@@ -1,3 +1,4 @@
+
 # THE ULTIMATE STOCK MARKET TOOLKIT
 
 Over the years I've amassed a large collection of links, resources, tools and so on that I find useful in my trading/investing activities. I'm compiling those here, along with any that were shared with me via Twitter/Reddit/email/etc and seemed useful after a cursory look. While I've done my best to link to tools that are not only legitimate but also likely to stay active, alive and useful for the foreseeable future, obviously I have no control over these companies/websites and over time some of the links may break or situations may emerge that turn them into poor recommendations. Also, this list is not exhaustive by any means and may be updated in the future as new tools/resources emerge.
@@ -6,7 +7,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 
 **DISCLAIMER:** *In general, there is **no preference** given to any of these resources and this is not a recommendation to use them. Besides categorizing them and deciding to include some based on personal experience, I am not officially suggesting any opinion on any of these, but I do have experience with many of them and have tried to include things I've had good experiences with or that I personally use in my trading/investing activities.*
 
-*Any links that are **bold** are things I either currently use or have used enough in the past to get a good feel for their quality/functionality, but that does not mean I am recommending them, only that I have personal experience with them. If it is not bold, it doesn't mean I've never used it, only that it's something I just use now and then or that it seemed handy at a cursory glance. In short regarding this entire thread, I am not a financial advisor and neither is Reddit. **Do your own due diligence and speak to a professional before making any financial decisions.***
+*Any links that are **bold** are things I either currently use or have used enough in the past to get a good feel for their quality/functionality, but that does not mean I am recommending them, only that I have personal experience with them. If it is not bold, it doesn't mean I've never used it, only that it's something I just use now and then or that it seemed handy at a cursory glance. In short regarding this entire thread, I am not a financial advisor. **Do your own due diligence and speak to a professional before making any financial decisions.***
 
 ---
 
@@ -31,6 +32,14 @@ Alright, here we go:
 - [Power E*Trade](https://us.etrade.com/platforms/power-etrade)
 - **[Tastyworks](https://www.tastyworks.com/)** *(Options-focused)*
 
+**BROKERS & TRADING SOFTWARE (Canadian):**
+- [Interactive Brokers](https://www1.interactivebrokers.com/en/home.php)
+- [Questrade](https://www.questrade.com/)
+
+**BROKERS & TRADING SOFTWARE (European):**
+- [Degiro](https://www.degiro.eu/)
+- [Interactive Brokers](https://www1.interactivebrokers.com/en/home.php)
+
 **BROKERS & TRADING SOFTWARE (Reviews and Guides):**
 - [Stockbrokers.com Investing Guides](https://www.stockbrokers.com/guides)
 
@@ -53,20 +62,52 @@ Alright, here we go:
 - [Tradervue](https://www.tradervue.com/)
 ---
 **GETTING STARTED:**
-- [Investopedia Investing Essentials](https://www.investopedia.com/investing-essentials-4689754)
+- **[Investopedia - How to Start Investing in Stocks](https://www.investopedia.com/articles/basics/06/invest1000.asp)**
+- **[Greenbar Trading - Fundamentals of Active Trading](https://youtu.be/TprZoVbfZ18)**
 - **[LazyFA Market Essentials](https://www.youtube.com/watch?v=7pwKL_km9hg&list=PLJ94CeEi9Aa5FNL2DDsz0ePfJdpoCar9i)**
-- **[Jason Leavitt's Free Mini Masterclass in Trading](https://jason-leavitt-masterclass-in-trading.teachable.com/p/free-mini-masterclass-in-trading)**
+- **[The Balance - Investing for Beginners](https://www.thebalance.com/investing-for-beginners-4074004)**
+- [The Balance - Understanding Interest Rates](https://www.thebalance.com/what-is-interest-315436)
+- **[The Federal Open Who?](https://www.lazyfa.com/blog/2015/06/21/federal-open-who/)**
+- [/r/stocks "Stick My Money Somewhere"](https://www.reddit.com/r/stocks/wiki/stick-my-money-somewhere)
+- **[Tim Parker - News and the Stock Market](https://www.youtube.com/watch?v=4IDG8VtYats)**
+- [Khan Academy - Stocks and Bonds](https://www.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds)
+- [Khan Academy - Funds and Other Investment Vehicles](https://www.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial)
+- [Investopedia Investing Essentials Category](https://www.investopedia.com/investing-essentials-4689754)
+- [Jason Leavitt's Free Mini Masterclass in Trading](https://jason-leavitt-masterclass-in-trading.teachable.com/p/free-mini-masterclass-in-trading)
 
 ---
-**TECHNICAL ANALYSIS:**
-- **[TradingView](https://www.tradingview.com)**
+**TECHNICAL ANALYSIS (Education):**
 - **[Investopedia Technical Analysis](https://www.investopedia.com/technical-analysis-4689657)**
+- [Technical Analysis Strategies for Beginners](https://www.investopedia.com/articles/active-trading/102914/technical-analysis-strategies-beginners.asp)
+- **[Technical Analysis of Stocks](https://www.youtube.com/watch?v=08R_TJhAOGo)**
+- **[LazyFA Technical Analysis Playlist](https://www.youtube.com/playlist?list=PLJ94CeEi9Aa4AgpRGVamvnPm3DjvashL3)**
+- **[COVID-19 Bear Market Analysis](https://www.youtube.com/watch?v=kJQWvIx5yuE)**
+
+**TECHNICAL ANALYSIS (Tools/Resources):**
+- **[TradingView](https://www.tradingview.com)**
+- **[TC2000 Charting](https://www.tc2000.com/)**
+- **[DAS Trader](https://dastrader.com/)**
+- **[StockFetcher Technical Analysis Screener](https://www.stockfetcher.com)**
+- **[Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/features.page)** *(AKA ToS, from TD Ameritrade)*
 
 ---
-**FUNDAMENTAL ANALYSIS:**
+**FUNDAMENTAL ANALYSIS (Education):**
+- **[Investopedia Fundamental Analysis Category](https://www.investopedia.com/fundamental-analysis-4689757)**
+- [Coursera - Accounting Analytics](https://www.coursera.org/learn/accounting-analytics)
+- **[The Balance - Income Statement Analysis](https://www.thebalance.com/income-statement-analysis-4073647)**
+- **[The Balance - Analyzing a Balance Sheet](https://www.thebalance.com/analyzing-a-balance-sheet-4073648)**
+- [/r/Stocks Fundamentals Wiki](https://www.reddit.com/r/stocks/wiki/fundamentals-themed-post)
+- **[LazyFA Knowledge Base](https://www.lazyfa.com/blog/)**
+- [MarketWatch - Guide to Analyst Recommendations](https://www.marketwatch.com/tools/guide.asp)
+
+**FUNDAMENTAL ANALYSIS (Tools/Resources):**
 - **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/)**
 - [Finbox](https://www.finbox.com)
-- **[Investopedia Fundamental Analysis](https://www.investopedia.com/fundamental-analysis-4689757)**
+- [Gurufocus - Value Investing & Market Insight of Investment Gurus](https://www.gurufocus.com)
+- [Tiingo](https://www.tiingo.com)
+- [CSI Market](https://www.csimarket.com/)
+- **[StreetInsider Earnings Calendar](https://www.streetinsider.com/ec_calendar.php)**
+- **[StreetInsider EPS Insider](https://www.streetinsider.com/portal/Earnings+Insider/5.html)**
 
 ---
 **SEC FILINGS:**
@@ -106,6 +147,14 @@ Alright, here we go:
 - **[Invest with Sven Carlin, Ph.D.](https://www.youtube.com/channel/UCrTTBSUr0zhPU56UQljag5A)**
 - **[Bulls on Wall Street](https://www.youtube.com/user/bullsonwallstreet/)**
 - **[Investors Underground](https://www.youtube.com/user/investorsunderground/)**
+- **[Quoth The Raven Research](https://www.youtube.com/channel/UCxUo55-0ScpOQNdug8FCzzA/featured)**
+
+---
+**TALKS/SPEECHES:**
+- **[Chris Irons - Our Bullshit Economy](https://www.youtube.com/watch?v=iNhKN5avCiU)**
+- **[Chris Irons - Short the Whole Fucking Thing](https://www.youtube.com/watch?v=feavOtijQ8s)**
+- [Traders4ACause Talk Series](https://www.youtube.com/channel/UCby2OrCXwTEuiGl-Bq4Sz5A/videos)
+- **[Kunal Desai - How to Get Over Blown Up Trading Accounts and Win](https://www.youtube.com/watch?v=aN8-WHWdxEc)**
 
 ---
 **STOCK MARKET MOVIES/DOCUMENTARIES:**
