@@ -122,7 +122,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 ###### [TOC](#toc)
 ---
 **<a id="fa-tools"></a>FUNDAMENTAL ANALYSIS (Tools/Resources):**
-- **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/)**
+- **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
 - [Finbox](https://www.finbox.com)
 - [Gurufocus - Value Investing & Market Insight of Investment Gurus](https://www.gurufocus.com)
 - [Tiingo](https://www.tiingo.com)
