@@ -136,7 +136,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - **[LazyFA Screener](https://www.lazyfa.com/screener)**
 - [Tiingo Screener](https://www.tiingo.com/screener/overview)
 - **[TradingView Screener](https://www.tradingview.com/screener/)**
-- **[StockFetcher Technical Analysis Screener](https://www.stockfetcher.com)**
+- **[StockFetcher Technical Analysis Screener](https://www.stockfetcher.com/)**
 - **[TC2000 Realtime Scanning/Screening](https://www.tc2000.com/)**
 - **[TradeIdeas Realtime Scanning/Screening](https://www.trade-ideas.com/)**
 - [StockCharts Predefined Scans](https://stockcharts.com/def/servlet/SC.scan)
