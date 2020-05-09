@@ -290,7 +290,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 ###### [TOC](#toc)
 
 ---
-**<a id="blogs"></a>BLOGS/DISCUSSION FORUMS/MISC RESOURCES:**
+**<a id="blogs"></a>BLOGS/DISCUSSION FORUMS/LIVE CHATS/MISC RESOURCES:**
 - **[Stockaholics Trader's Forum](https://www.stockaholics.net/)**
 - [Estimize Earnings Calendar](https://www.estimize.com/calendar)
 - **[Investors Underground Blog](https://www.investorsunderground.com/blog/)**
