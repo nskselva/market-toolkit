@@ -100,6 +100,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [Stock Analysis - Free Online Stock Information for Investors](https://www.stockanalysis.com/)
 - [BioPharmCatalyst - Biotech-Specific Research](https://www.biopharmcatalyst.com/)
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
+###### [TOC](#toc)
 ---
 **<a id="ta-education"></a>TECHNICAL ANALYSIS (Education):**
 - **[Investopedia Technical Analysis](https://www.investopedia.com/technical-analysis-4689657)**
@@ -277,6 +278,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	 - [Adam Feuerstein](https://twitter.com/adamfeuerstein)
 	 - [Haim Bodek](https://twitter.com/HaimBodek)
 ###### [TOC](#toc)
+
 ---
 **<a id="developers"></a>DEVELOPER RESOURCES/ALGO STUFF/APIs:**
 - [Alpaca Algorithmic Trading](https://alpaca.markets/algotrading)
@@ -286,6 +288,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [Xignite - Market Data Solutions](https://www.xignite.com/)
 - [Polygon - APIs for Stocks, Forex and Crypto](https://www.polygon.io/)
 ###### [TOC](#toc)
+
 ---
 **<a id="blogs"></a>BLOGS/DISCUSSION FORUMS/MISC RESOURCES:**
 - **[Stockaholics Trader's Forum](https://www.stockaholics.net/)**
