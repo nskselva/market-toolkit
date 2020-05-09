@@ -98,7 +98,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [IPOScoop - Lots of handy info on IPOs](https://www.iposcoop.com/)
 - [Stockrow - News, Fundamental Data and Screeners](https://www.stockrow.com/)
 - [Stock Analysis - Free Online Stock Information for Investors](https://www.stockanalysis.com/)
-- [BioPharmCatalyst - Biotech-Specific Research](https://www.biopharmcatalyst.com/)
+- **[BioPharmCatalyst - Biotech-Specific Research](https://www.biopharmcatalyst.com/)**
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 ###### [TOC](#toc)
 ---
