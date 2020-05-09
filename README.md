@@ -1,8 +1,3 @@
-
-
-
-
-
 # THE ULTIMATE STOCK MARKET TOOLKIT
 Over the years I've amassed a large collection of links, resources, tools and so on that I find useful in my trading/investing activities. I'm compiling those here, along with any that were shared with me via Twitter/Reddit/email/etc and seemed useful after a cursory look. While I've done my best to link to tools that are not only legitimate but also likely to stay active, alive and useful for the foreseeable future, obviously I have no control over these companies/websites and over time some of the links may break or situations may emerge that turn them into poor recommendations. Also, this list is not exhaustive by any means and may be updated in the future as new tools/resources emerge.
 
@@ -19,6 +14,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	- [Canadian](#brokers-canadian)
 	- [European](#brokers-european)
 	- [Reviews](#brokers-reviews)
+- [GENERAL STOCK MARKET RESEARCH](#research)
 - [TECHNICAL ANALYSIS](#ta-education)
 	- [Education](#ta-education)
 	- [Tools](#ta-tools)
@@ -37,7 +33,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	- [Individual Accounts](#twitter-individual)
 	- [Research Focus](#twitter-research)
 - [DEVELOPER RESOURCES/ALGO STUFF/APIs](#developers)
-- [BLOGS/DISCUSSION FORUMS/MISC RESOURCES](#blogs)
+- [BLOGS/DISCUSSION FORUMS/LIVE CHATS/MISC RESOURCES](#blogs)
 ---
 **<a id="getting-started"></a>GETTING STARTED:**
 - **[Investopedia - How to Start Investing in Stocks](https://www.investopedia.com/articles/basics/06/invest1000.asp)**
@@ -94,6 +90,17 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [Stockbrokers.com Investing Guides](https://www.stockbrokers.com/guides)
 ###### [TOC](#toc)
 ---
+**<a id="research"></a>GENERAL STOCK MARKET RESEARCH:**
+- **[Finviz - Lots of free research tools](https://www.finviz.com)**
+- **[Barchart - Technical and Fundamental Analysis Tools](https://www.barchart.com)**
+- **[Koyfin - Free Comprehensive Market Data for Investors](https://www.koyfin.com/)**
+- [The Market Ear - Live Market News/Analysis](https://www.themarketear.com/)
+- [IPOScoop - Lots of handy info on IPOs](https://www.iposcoop.com/)
+- [Stockrow - News, Fundamental Data and Screeners](https://www.stockrow.com/)
+- [Stock Analysis - Free Online Stock Information for Investors](https://www.stockanalysis.com/)
+- [BioPharmCatalyst - Biotech-Specific Research](https://www.biopharmcatalyst.com/)
+- **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
+---
 **<a id="ta-education"></a>TECHNICAL ANALYSIS (Education):**
 - **[Investopedia Technical Analysis](https://www.investopedia.com/technical-analysis-4689657)**
 - [Technical Analysis Strategies for Beginners](https://www.investopedia.com/articles/active-trading/102914/technical-analysis-strategies-beginners.asp)
@@ -123,18 +130,26 @@ Over the years I've amassed a large collection of links, resources, tools and so
 ---
 **<a id="fa-tools"></a>FUNDAMENTAL ANALYSIS (Tools/Resources):**
 - **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
+- **[Finviz - Financial Visualizations](https://www.finviz.com)**
 - [Finbox](https://www.finbox.com)
+- [Atom Finance](https://www.atom.finance/)
 - [Gurufocus - Value Investing & Market Insight of Investment Gurus](https://www.gurufocus.com)
+- [Stockrow - News, Fundamental Data and Screeners](https://www.stockrow.com/)
 - [Tiingo](https://www.tiingo.com)
 - [CSI Market](https://www.csimarket.com/)
 - **[StreetInsider Earnings Calendar](https://www.streetinsider.com/ec_calendar.php)**
 - **[StreetInsider EPS Insider](https://www.streetinsider.com/portal/Earnings+Insider/5.html)**
+- [Vhinny - Nicely Consolidated Financial Statements and Fundamentals](https://www.vhinny.com/)
+- [Docoh - SEC Filing & Company Analysis](https://www.docoh.com)
+- **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
+- [Beeken - Investing Tools Reimagined](https://www.beeken.io/)
 ###### [TOC](#toc)
 ---
 **<a id="scanners"></a>SCANNERS, SCREENERS & IDEA GENERATION:**
 - **[Finviz Screener](https://finviz.com/screener.ashx)**
 - **[LazyFA Screener](https://www.lazyfa.com/screener)**
 - [Tiingo Screener](https://www.tiingo.com/screener/overview)
+- [Stockrow Screener](https://www.stockrow.com/screener/)
 - **[TradingView Screener](https://www.tradingview.com/screener/)**
 - **[StockFetcher Technical Analysis Screener](https://www.stockfetcher.com/)**
 - **[TC2000 Realtime Scanning/Screening](https://www.tc2000.com/)**
@@ -155,6 +170,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - **[BamSEC - Financial Research Made Easier](https://www.bamsec.com/)**
 - **[LazyFA Market Events](https://www.lazyfa.com/events/)**
 - [Rank and Filed - SEC Filings for Humans](http://rankandfiled.com/#/)
+- [Docoh - SEC Filing & Company Analysis](https://www.docoh.com)
 ###### [TOC](#toc)
 ---
 **<a id="paid"></a>PAID TRADING SERVICES/EDUCATION/CHAT ROOMS:**
@@ -268,6 +284,8 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - **[Quandl - Financial, Economic and Alternative Data](https://www.quandl.com)**
 - **[IEX Cloud - Financial Data Infrastructure](https://www.iexcloud.io)**
 - [Xignite - Market Data Solutions](https://www.xignite.com/)
+- [Polygon - APIs for Stocks, Forex and Crypto](https://www.polygon.io/)
+###### [TOC](#toc)
 ---
 **<a id="blogs"></a>BLOGS/DISCUSSION FORUMS/MISC RESOURCES:**
 - **[Stockaholics Trader's Forum](https://www.stockaholics.net/)**
@@ -279,4 +297,6 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [Reddit /r/Stocks](https://www.reddit.com/r/stocks)
 - [Reddit /r/Investing](https://www.reddit.com/r/investing)
 - [Reddit /r/WallStreetBets](https://www.reddit.com/r/wallstreetbets)
+- **[Reddit /r/StockMarket Official Discord Live Chat](https://discord.gg/9AJnkpu)**
+- **[Woot Street Live Chat](https://discord.gg/eHvyGPu)**
 ###### [TOC](#toc)
