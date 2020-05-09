@@ -140,7 +140,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [CSI Market](https://www.csimarket.com/)
 - **[StreetInsider Earnings Calendar](https://www.streetinsider.com/ec_calendar.php)**
 - **[StreetInsider EPS Insider](https://www.streetinsider.com/portal/Earnings+Insider/5.html)**
-- [Vhinny - Nicely Consolidated Financial Statements and Fundamentals](https://www.vhinny.com/)
+- [Vhinny - Consolidated Financial Statements and Fundamentals](https://www.vhinny.com/)
 - [Docoh - SEC Filing & Company Analysis](https://www.docoh.com)
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 - [Beeken - Investing Tools Reimagined](https://www.beeken.io/)
