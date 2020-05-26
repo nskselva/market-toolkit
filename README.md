@@ -1,3 +1,4 @@
+
 # THE ULTIMATE STOCK MARKET TOOLKIT
 Over the years I've amassed a large collection of links, resources, tools and so on that I find useful in my trading/investing activities. I'm compiling those here, along with any that were shared with me via Twitter/Reddit/email/etc and seemed useful after a cursory look. While I've done my best to link to tools that are not only legitimate but also likely to stay active, alive and useful for the foreseeable future, obviously I have no control over these companies/websites and over time some of the links may break or situations may emerge that turn them into poor recommendations. Also, this list is not exhaustive by any means and may be updated in the future as new tools/resources emerge.
 
@@ -94,12 +95,15 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - **[Finviz - Lots of free research tools](https://www.finviz.com)**
 - **[Barchart - Technical and Fundamental Analysis Tools](https://www.barchart.com)**
 - **[Koyfin - Free Comprehensive Market Data for Investors](https://www.koyfin.com/)**
+- **[TipRanks - Analyst Ratings and Market Research](https://www.tipranks.com/)**
 - [The Market Ear - Live Market News/Analysis](https://www.themarketear.com/)
 - [IPOScoop - Lots of handy info on IPOs](https://www.iposcoop.com/)
 - [Stockrow - News, Fundamental Data and Screeners](https://www.stockrow.com/)
 - [Stock Analysis - Free Online Stock Information for Investors](https://www.stockanalysis.com/)
 - **[BioPharmCatalyst - Biotech-Specific Research](https://www.biopharmcatalyst.com/)**
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
+- [The Ultimate Investing Checklist](https://www.reddit.com/r/investing/comments/bpriju/the_ultimate_investing_checklist/)
+- [Stock Market Analytics](https://www.equitieslab.com/)
 ###### [TOC](#toc)
 ---
 **<a id="ta-education"></a>TECHNICAL ANALYSIS (Education):**
@@ -116,6 +120,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - **[DAS Trader](https://dastrader.com/)**
 - **[StockFetcher Technical Analysis Screener](https://www.stockfetcher.com)**
 - **[Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/features.page)** *(AKA ToS, from TD Ameritrade)*
+- [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
 ###### [TOC](#toc)
 ---
 **<a id="fa-education"></a>FUNDAMENTAL ANALYSIS (Education):**
@@ -132,15 +137,15 @@ Over the years I've amassed a large collection of links, resources, tools and so
 **<a id="fa-tools"></a>FUNDAMENTAL ANALYSIS (Tools/Resources):**
 - **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
 - **[Finviz - Financial Visualizations](https://www.finviz.com)**
+- **[TipRanks - Analyst Ratings and Market Research](https://www.tipranks.com/)**
 - [Finbox](https://www.finbox.com)
 - [Atom Finance](https://www.atom.finance/)
 - [Gurufocus - Value Investing & Market Insight of Investment Gurus](https://www.gurufocus.com)
 - [Stockrow - News, Fundamental Data and Screeners](https://www.stockrow.com/)
-- [Tiingo](https://www.tiingo.com)
+- **[Tiingo](https://www.tiingo.com)**
 - [CSI Market](https://www.csimarket.com/)
 - **[StreetInsider Earnings Calendar](https://www.streetinsider.com/ec_calendar.php)**
 - **[StreetInsider EPS Insider](https://www.streetinsider.com/portal/Earnings+Insider/5.html)**
-- [Vhinny - Consolidated Financial Statements and Fundamentals](https://www.vhinny.com/)
 - [Docoh - SEC Filing & Company Analysis](https://www.docoh.com)
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 - [Beeken - Investing Tools Reimagined](https://www.beeken.io/)
@@ -160,6 +165,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [High Short Interest Stocks](https://www.highshortinterest.com/)
 - **[Shortsqueeze.com - Short Selling Resources](http://shortsqueeze.com/)**
 - [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
+- [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
 ###### [TOC](#toc)
 ---
 **<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
@@ -197,11 +203,20 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [**Trading in the Zone**](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447)
 - [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
 - [How To Trade in Stocks](https://www.amazon.com/How-Trade-Stocks-Jesse-Livermore-ebook/dp/B0062Y79M0)
+- [How to Day Trade for a Living: Tools, Tactics, Money Management, Discipline and Trading Psychology](https://www.amazon.com/How-Day-Trade-Living-Management-ebook/dp/B012C4AU10)
+- [Advanced Techniques in Day Trading: A Practical Guide to High Probability Day Trading Strategies and Methods](https://www.amazon.com/Advanced-Techniques-Day-Trading-Probability-ebook/dp/B07DQSFK7M)
+- [How To Swing Trade: A Beginner's Guide to Trading Tools, Money Management, Rules, Routines and Strategies of a Swing Trader](amazon.com/How-Swing-Trade-Management-Strategies-ebook/dp/B07HZ38XVQ)
+- [The Art and Science of Technical Analysis: Market Structure, Price Action, and Trading Strategies](amazon.com/Art-Science-Technical-Analysis-Strategies/dp/1118115120)
+- [Getting Started in Chart Patterns](amazon.com/Getting-Started-Patterns-Thomas-Bulkowski/dp/1118859200)
+- [Option Volatility and Pricing: Advanced Trading Strategies and Techniques](amazon.com/Option-Volatility-Pricing-Strategies-Techniques-ebook/dp/B00O2A7HMS/)
+- [Options as a Strategic Investment](https://www.amazon.com/Options-as-Strategic-Investment-Fifth/dp/0735204659/)
+- [The Only Options Trading Book You'll Ever Need](amazon.com/Options-Trading-Second-Option-Russell/dp/1945949511)
 - **[/r/SecurityAnalysis Wiki](https://www.reddit.com/r/SecurityAnalysis/wiki/index)**
 ###### [TOC](#toc)
 ---
 **<a id="youtube"></a>YOUTUBE CHANNELS:**
 - **[LazyFA](https://www.youtube.com/channel/UCQ9LMi4xPU1zCICplsAe7Jw/)**
+- **[Jose Najarro Stocks & eSports](https://www.youtube.com/channel/UC5cEHfCr6WOE1R1zcohd1IA)**
 - **[Invest with Sven Carlin, Ph.D.](https://www.youtube.com/channel/UCrTTBSUr0zhPU56UQljag5A)**
 - **[Bulls on Wall Street](https://www.youtube.com/user/bullsonwallstreet/)**
 - **[Investors Underground](https://www.youtube.com/user/investorsunderground/)**
@@ -237,7 +252,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 **TWITTER ACCOUNTS:**
  - <a id="twitter-individual"></a>Individuals/Small Services:
 	 - [Chris Z](https://twitter.com/ckz8780)
-	 - [Will Meade](https://twitter.com/realwillmeade)
+	 - [Jose Najarro Stocks](https://www.twitter.com/_JoseNajarro)
 	 - [Oil Stock Trader](https://twitter.com/OilStockTrader)
 	 - [Diogenes](https://twitter.com/WallStCynic)
 	 - [Psycho™](https://twitter.com/PsychoOnWallst)
@@ -302,4 +317,5 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [Reddit /r/WallStreetBets](https://www.reddit.com/r/wallstreetbets)
 - **[Reddit /r/StockMarket Official Discord Live Chat](https://discord.gg/9AJnkpu)**
 - **[Woot Street Live Chat](https://discord.gg/eHvyGPu)**
+- [Boiler Room Trading Discord](https://discord.com/invite/dJQ8CT5)
 ###### [TOC](#toc)
