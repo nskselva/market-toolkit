@@ -296,7 +296,9 @@ Over the years I've amassed a large collection of links, resources, tools and so
 
 ---
 **<a id="developers"></a>DEVELOPER RESOURCES/ALGO STUFF/APIs:**
-- **[QuantConnect](https://www.quantconnect.com)**
+- **[Tiingo - Enterprise Grade Financial Markets API](https://api.tiingo.com/)**
+- [Intrinio](https://www.intrinio.com)
+- [QuantConnect](https://www.quantconnect.com)
 - [Alpaca Algorithmic Trading](https://alpaca.markets/algotrading)
 - [Reddit /r/AlgoTrading](https://www.reddit.com/r/algotrading)
 - **[Quandl - Financial, Economic and Alternative Data](https://www.quandl.com)**
@@ -304,6 +306,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [Xignite - Market Data Solutions](https://www.xignite.com/)
 - [Polygon - APIs for Stocks, Forex and Crypto](https://www.polygon.io/)
 - [LEAN Algorithmic Trading Engine](https://www.lean.io/)
+- [SEC-API.io](https://www.sec-api.io/)
 ###### [TOC](#toc)
 
 ---
