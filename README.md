@@ -34,6 +34,9 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	- [Individual Accounts](#twitter-individual)
 	- [Research Focus](#twitter-research)
 - [DEVELOPER RESOURCES/ALGO STUFF/APIs](#developers)
+	- [General Resources](#developers-general)
+	- [Algo Trading Engines](#developers-engines)
+	- [Data APIs](#developers-data)
 - [BLOGS/DISCUSSION FORUMS/LIVE CHATS/MISC RESOURCES](#blogs)
 ---
 **<a id="getting-started"></a>GETTING STARTED:**
@@ -297,19 +300,26 @@ Over the years I've amassed a large collection of links, resources, tools and so
 ###### [TOC](#toc)
 
 ---
-**<a id="developers"></a>DEVELOPER RESOURCES/ALGO STUFF/APIs:**
-- **[Tiingo - Enterprise Grade Financial Markets API](https://api.tiingo.com/)**
-- [Intrinio](https://www.intrinio.com)
-- [QuantConnect](https://www.quantconnect.com)
-- [Alpaca Algorithmic Trading](https://alpaca.markets/algotrading)
-- [Reddit /r/AlgoTrading](https://www.reddit.com/r/algotrading)
-- **[Quandl - Financial, Economic and Alternative Data](https://www.quandl.com)**
-- **[IEX Cloud - Financial Data Infrastructure](https://www.iexcloud.io)**
-- [Xignite - Market Data Solutions](https://www.xignite.com/)
-- [Polygon - APIs for Stocks, Forex and Crypto](https://www.polygon.io/)
-- [LEAN Algorithmic Trading Engine](https://www.lean.io/)
-- [SEC-API.io](https://www.sec-api.io/)
-###### [TOC](#toc)
+**<a id="developers"></a>DEVELOPER RESOURCES:**
+- <a id="developers-general"></a>General Resources
+	- [Alpaca Algorithmic Trading](https://alpaca.markets/algotrading) - Paper trading API
+	- [Reddit /r/AlgoTrading](https://www.reddit.com/r/algotrading)
+	###### [TOC](#toc)
+
+- <a id="developers-engines"></a>Algo Trading Engines
+	- [QuantConnect](https://www.quantconnect.com)
+	- [LEAN Algorithmic Trading Engine](https://www.lean.io/)
+	###### [TOC](#toc)
+
+- <a id="developers-data"></a>Data APIs
+	- **[Tiingo - Enterprise Grade Financial Markets API](https://api.tiingo.com/)**
+	- [Intrinio](https://www.intrinio.com)
+	- **[Quandl - Financial, Economic and Alternative Data](https://www.quandl.com)**
+	- **[IEX Cloud - Financial Data Infrastructure](https://www.iexcloud.io)**
+	- [Xignite - Market Data Solutions](https://www.xignite.com/)
+	- [Polygon - APIs for Stocks, Forex and Crypto](https://www.polygon.io/)
+	- [SEC-API.io](https://www.sec-api.io/)
+	###### [TOC](#toc)
 
 ---
 **<a id="blogs"></a>BLOGS/DISCUSSION FORUMS/LIVE CHATS/MISC RESOURCES:**
