@@ -319,6 +319,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	- [Xignite - Market Data Solutions](https://www.xignite.com/)
 	- [Polygon - APIs for Stocks, Forex and Crypto](https://www.polygon.io/)
 	- [SEC-API.io](https://www.sec-api.io/)
+  - [Alpha Vantage](https://www.alphavantage.co/)
 	###### [TOC](#toc)
 
 ---
