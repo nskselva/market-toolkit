@@ -1,4 +1,7 @@
 
+
+
+
 # THE ULTIMATE STOCK MARKET TOOLKIT
 Over the years I've amassed a large collection of links, resources, tools and so on that I find useful in my trading/investing activities. I'm compiling those here, along with any that were shared with me via Twitter/Reddit/email/etc and seemed useful after a cursory look. While I've done my best to link to tools that are not only legitimate but also likely to stay active, alive and useful for the foreseeable future, obviously I have no control over these companies/websites and over time some of the links may break or situations may emerge that turn them into poor recommendations. Also, this list is not exhaustive by any means and may be updated in the future as new tools/resources emerge.
 
@@ -6,7 +9,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 
 **DISCLAIMER:** *In general, there is **no preference** given to any of these resources and this is not a recommendation to use them. Besides categorizing them and deciding to include some based on personal experience, I am not officially suggesting any opinion on any of these, but I do have experience with many of them and have tried to include things I've had good experiences with or that I personally use in my trading/investing activities.*
 
-*Any links that are **bold** are things I either currently use or have used enough in the past to get a good feel for their quality/functionality, but that does not mean I am recommending them, only that I have personal experience with them. If it is not bold, it doesn't mean I've never used it, only that it's something I just use now and then or that it seemed handy at a cursory glance. In short regarding this entire thread, I am not a financial advisor. **Do your own due diligence and speak to a professional before making any financial decisions.***
+*Any links that are **bold** are things I either currently use or have used enough in the past to get a good feel for their quality/functionality, but that does not mean I am recommending them, only that I have personal experience with them. If it is not bold, it doesn't mean I've never used it, only that it's something I just use now and then or that it seemed handy at a cursory glance. In short regarding this entire list, I am not a financial advisor. **Do your own due diligence and speak to a professional before making any financial decisions.***
 # <a id="toc"></a>Table of Contents:
 - [GETTING STARTED](#getting-started)
 - [BROKERS & TRADING SOFTWARE](#brokers)
@@ -16,6 +19,11 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	- [European](#brokers-european)
 	- [Reviews](#brokers-reviews)
 - [GENERAL STOCK MARKET RESEARCH](#research)
+- [CALENDARS](#calendars)
+	- [Earnings Calendars](#earnings-calendars)
+	- [Dividend/Ex-Dividend Calendars](#dividend-calendars)
+	- [Economic Calendars](#economic-calendars)
+	- [Misc Calendars](#misc-calendars)
 - [TECHNICAL ANALYSIS](#ta-education)
 	- [Education](#ta-education)
 	- [Tools](#ta-tools)
@@ -25,6 +33,9 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [SCANNERS, SCREENERS & IDEA GENERATION](#scanners)
 - [TRADE ANALYSIS & REVIEW](#trade-analysis)
 - [SEC FILINGS](#filings)
+	- [Research & Education](#filings-education)
+	- [Daily Filings by Type](#filings-daily)
+- [HALTS, SHORT SELLING AND EXCHANGE RESOURCES](#halts-shorting-exchanges)
 - [PAID TRADING SERVICES/EDUCATION/CHAT ROOMS](#paid)
 - [BOOKS](#books)
 - [YOUTUBE CHANNELS](#youtube)
@@ -44,6 +55,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [Fundamentals of Active Trading](https://youtu.be/TprZoVbfZ18)
 - [Five Things to Look for on Every Trade](https://www.youtube.com/watch?v=d1cSG-6GIlU)
 - **[LazyFA Market Essentials](https://www.youtube.com/watch?v=7pwKL_km9hg&list=PLJ94CeEi9Aa5FNL2DDsz0ePfJdpoCar9i)**
+- [Investopedia SEC Filings You Need to Know](https://www.investopedia.com/articles/fundamental-analysis/08/sec-forms.asp)
 - **[The Balance - Investing for Beginners](https://www.thebalance.com/investing-for-beginners-4074004)**
 - [The Balance - Understanding Interest Rates](https://www.thebalance.com/what-is-interest-315436)
 - **[The Federal Open Who?](https://www.lazyfa.com/blog/2015/06/21/federal-open-who/)**
@@ -96,9 +108,14 @@ Over the years I've amassed a large collection of links, resources, tools and so
 ---
 **<a id="research"></a>GENERAL STOCK MARKET RESEARCH:**
 - **[Finviz - Lots of free research tools](https://www.finviz.com)**
+- [Finviz Relative Performance by Industry](https://www.finviz.com/groups.ashx?g=industry&v=210&o=name)
+- [Finviz Relative Performance by Sector](https://www.finviz.com/groups.ashx?g=sector&v=210&o=name)
+- [Finviz Recent News](https://www.finviz.com/news.ashx)
+- **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
 - **[Barchart - Technical and Fundamental Analysis Tools](https://www.barchart.com)**
 - **[Koyfin - Free Comprehensive Market Data for Investors](https://www.koyfin.com/)**
 - [Wallmine](https://www.wallmine.com)
+- [Grufity Stock Research](https://grufity.com/stock/)
 - [TipRanks - Analyst Ratings and Market Research](https://www.tipranks.com/)
 - [The Market Ear - Live Market News/Analysis](https://www.themarketear.com/)
 - [IPOScoop - Lots of handy info on IPOs](https://www.iposcoop.com/)
@@ -108,6 +125,36 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 - [The Ultimate Investing Checklist](https://www.reddit.com/r/investing/comments/bpriju/the_ultimate_investing_checklist/)
 - [Stock Market Analytics](https://www.equitieslab.com/)
+- [Market Chameleon](https://www.marketchameleon.com/)
+###### [TOC](#toc)
+---
+**<a id="calendars"></a>CALENDARS:**
+- <a id="earnings-calendars"></a>Earnings Calendars:
+	- [Yahoo! Finance](https://finance.yahoo.com/calendar/earnings/)
+	- [Business Insider](https://markets.businessinsider.com/earnings-calendar)
+	- [Zacks](https://www.zacks.com/earnings/earnings-calendar)
+	- **[Earnings Whispers](https://www.earningswhispers.com/)**
+	- [Investing.com Earnings Calendar](https://www.investing.com/earnings-calendar/)
+###### [TOC](#toc)
+
+- <a id="dividend-calendars"></a>Dividend/Ex-Dividend Calendars:
+	- [The Street](https://www.thestreet.com/dividends/index.html)
+	- [Dividend.com Ex-Div Date Search](https://www.dividend.com/ex-dividend-dates/#tm=3-ex-div-dates)
+	- [Investing.com Dividend Calendar](https://www.investing.com/dividends-calendar/)
+###### [TOC](#toc)
+
+- <a id="economic-calendars"></a>Economic Calendars:
+	- **[Finviz Economic Calendar](https://finviz.com/calendar.ashx)**
+	- [Investing.com Economic Calendar](https://www.investing.com/economic-calendar/)
+	- [IPO Monitor - Recent IPO Filings & Withdrawals](https://www.ipomonitor.com/)
+	- **[Federal Reserve Economic Release Calendar](https://www.federalreserve.gov/newsevents/calendar.htm)**
+###### [TOC](#toc)
+
+- <a id="misc-calendars"></a>Misc Calendars:
+	- [Investing.com IPO Calendar](https://www.investing.com/ipo-calendar/)
+	- [Investing.com Split Calendar](https://www.investing.com/stock-split-calendar/)
+	- **[Split History](https://www.splithistory.com)**
+	- [BiopharmCatalyst FDA Calendar](https://www.biopharmcatalyst.com/calendars/fda-calendar)
 ###### [TOC](#toc)
 ---
 **<a id="ta-education"></a>TECHNICAL ANALYSIS (Education):**
@@ -158,17 +205,16 @@ Over the years I've amassed a large collection of links, resources, tools and so
 **<a id="scanners"></a>SCANNERS, SCREENERS & IDEA GENERATION:**
 - **[Finviz Screener](https://finviz.com/screener.ashx)**
 - **[LazyFA Screener](https://www.lazyfa.com/screener)**
-- [Tiingo Screener](https://www.tiingo.com/screener/overview)
+- **[Tiingo Screener](https://www.tiingo.com/screener/overview)**
 - [Stockrow Screener](https://www.stockrow.com/screener/)
 - **[TradingView Screener](https://www.tradingview.com/screener/)**
 - [Wallmine Screener](https://www.wallmine.com/screener/)
+- [Market Chameleon Stock Screener](https://marketchameleon.com/Screeners/Stocks)
 - **[StockFetcher Technical Analysis Screener](https://www.stockfetcher.com/)**
 - **[TC2000 Realtime Scanning/Screening](https://www.tc2000.com/)**
 - **[TradeIdeas Realtime Scanning/Screening](https://www.trade-ideas.com/)**
 - [StockCharts Predefined Scans](https://stockcharts.com/def/servlet/SC.scan)
 - [Stock Market Watch Ideas](http://thestockmarketwatch.com/ideas/)
-- [High Short Interest Stocks](https://www.highshortinterest.com/)
-- **[Shortsqueeze.com - Short Selling Resources](http://shortsqueeze.com/)**
 - [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
 - [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
 ###### [TOC](#toc)
@@ -178,11 +224,44 @@ Over the years I've amassed a large collection of links, resources, tools and so
 ###### [TOC](#toc)
 ---
 **<a id="filings"></a>SEC FILINGS:**
-- **[Official SEC Website](https://www.sec.gov)**
-- **[BamSEC - Financial Research Made Easier](https://www.bamsec.com/)**
-- **[LazyFA Market Events](https://www.lazyfa.com/events/)**
-- [Rank and Filed - SEC Filings for Humans](http://rankandfiled.com/#/)
-- [Docoh - SEC Filing & Company Analysis](https://www.docoh.com)
+- <a id="filings-education"></a>Research & Education:
+	- **[Official SEC Website](https://www.sec.gov)**
+	- [SEC Forms Index (PDF)](https://www.sec.gov/info/edgar/forms/edgform.pdf)
+	- **[SEC Forms List](https://www.sec.gov/forms)**
+	- **[BamSEC - Financial Research Made Easier](https://www.bamsec.com/)**
+	- **[LazyFA Market Events](https://www.lazyfa.com/events/)**
+	- [Intelligize SEC Forms Quick Reference Guide (PDF)](https://www.intelligize.com/wp-content/uploads/2017/09/intelligize_sec_forms_guide.pdf)
+	- [Rank and Filed - SEC Filings for Humans](http://rankandfiled.com/#/)
+	- [Docoh - SEC Filing & Company Analysis](https://www.docoh.com)
+###### [TOC](#toc)
+- <a id="filings-daily"></a>Daily Filings by Type:
+	- [**10K & 10K/A** - Annual Reports](https://www.sec.gov/cgi-bin/current?q1=0&q2=0&q3=)
+	- [**10Q & 10Q/A** - Quarterly Reports](https://www.sec.gov/cgi-bin/current?q1=0&q2=0&q3=10-q)
+	- [**8K** - Material Events](https://www.sec.gov/cgi-bin/current?q1=0&q2=4&q3=8-K)
+	- [**8K** - Material Events, by Category](https://www.lazyfa.com/events/)
+	- [**S-*** - Securities Registration Statements](https://www.sec.gov/cgi-bin/current?q1=0&q2=5&q3=s-)
+	- [**EFFECT** - Effectiveness Notification for Securities Registration](https://www.sec.gov/cgi-bin/current?q1=0&q2=5&q3=effect)
+	- [**424B*** - Prospectus Supplements/Secondary Offerings](https://www.sec.gov/cgi-bin/current?q1=0&q2=0&q3=424b)
+	- [**Form 3** - Initial Insider Ownership Statement](https://www.sec.gov/cgi-bin/current?q1=0&q2=0&q3=3)
+	- [**Form 4** - Change in Insider Ownership](https://www.sec.gov/cgi-bin/browse-edgar?company=&CIK=&type=4&owner=only&count=40&action=getcurrent)
+	- [**Form 5** - Change in Insider Ownership, Delayed Disclosure](https://www.sec.gov/cgi-bin/current?q1=0&q2=0&q3=5)
+	- [**SC-13*** - Ownership Stakes](https://www.sec.gov/cgi-bin/current?q1=0&q2=0&q3=SC%2013)
+	- [**13F** - Quarterly Institutional Holdings Report](https://www.sec.gov/cgi-bin/current?q1=0&q2=0&q3=13F)
+
+###### [TOC](#toc)
+---
+**<a id="halts-shorting-exchanges"></a>HALTS, SHORT SELLING AND EXCHANGE RESOURCES:**
+- **[Current NASDAQ Trading Halts](https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts)**
+- [NASDAQ Halt Codes](https://www.nasdaqtrader.com/Trader.aspx?id=TradeHaltCodes)
+- [NASDAQ Unlisted Trading Privileges Plan Resources](http://www.utpplan.com/overview)
+- **[UTDF Specification](http://www.utpplan.com/DOC/utdfspecification.pdf)**
+- [Time & Sales Flags (Sale Conditions): Summary of Page 6-17 of the UTDF Spec)](https://www.dastrader.com/kb/knowledge-base/what-are-the-time-and-sales-windows-flag-symbol-definitions/)
+- [High Short Interest Stocks](https://www.highshortinterest.com/)
+- **[Shortsqueeze.com - Short Selling Resources](https://www.shortsqueeze.com/)**
+- [Current Threshold Securities](https://www.nasdaqtrader.com/trader.aspx?id=RegSHOThreshold)
+- [Current SSR Securities (Short Sale Restriction/Uptick Rule)](https://www.nasdaqtrader.com/trader.aspx?id=ShortSaleCircuitBreaker)
+- [FINRA Daily Short Selling Volume Raw Data](http://regsho.finra.org/regsho-Index.html)
+- [Short Volumes (for tracking daily short/long volume by ticker)](http://shortvolumes.com/)
 ###### [TOC](#toc)
 ---
 **<a id="paid"></a>PAID TRADING SERVICES/EDUCATION/CHAT ROOMS:**
@@ -226,6 +305,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - **[Bulls on Wall Street](https://www.youtube.com/user/bullsonwallstreet/)**
 - **[Investors Underground](https://www.youtube.com/user/investorsunderground/)**
 - **[Quoth The Raven Research](https://www.youtube.com/channel/UCxUo55-0ScpOQNdug8FCzzA/featured)**
+- **[Chat With Traders - Tons of Awesome Interviews](https://www.youtube.com/channel/UCdnzT5Tl6pAkATOiDsPhqcg)**
 ###### [TOC](#toc)
 ---
 **<a id="talks"></a>TALKS/SPEECHES:**
@@ -284,6 +364,9 @@ Over the years I've amassed a large collection of links, resources, tools and so
 ###### [TOC](#toc)
 
  - <a id="twitter-research"></a>Research/Journalist/Funds/HFT:
+ 	 - [Muddy Waters](https://twitter.com/muddywatersre)
+	 - [GeoInvesting, LLC.](https://twitter.com/GeoInvesting)
+	 - [Citron Research](https://twitter.com/CitronResearch)
 	 - [Hindenburg Research](https://twitter.com/HindenburgRes)
 	 - [Andrew Menaker, Ph.D.](https://twitter.com/Andrew_Menaker)
 	 - [Quoth the Raven Research](https://twitter.com/QTRResearch)
@@ -291,9 +374,6 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	 - [SkyTides](https://twitter.com/SkyTides)
 	 - [Prescience Point Capital Management](https://twitter.com/PresciencePoint)
 	 - [The Street Sweeper](https://twitter.com/investorsbeware)
-	 - [Muddy Waters](https://twitter.com/muddywatersre)
-	 - [GeoInvesting, LLC.](https://twitter.com/GeoInvesting)
-	 - [Citron Research](https://twitter.com/CitronResearch)
 	 - [Eric Scott Hunsader (Nanex, LLC)](https://twitter.com/nanexllc)
 	 - [Adam Feuerstein](https://twitter.com/adamfeuerstein)
 	 - [Haim Bodek](https://twitter.com/HaimBodek)
