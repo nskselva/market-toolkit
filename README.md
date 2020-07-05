@@ -231,6 +231,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	- **[BamSEC - Financial Research Made Easier](https://www.bamsec.com/)**
 	- **[LazyFA Market Events](https://www.lazyfa.com/events/)**
 	- [Intelligize SEC Forms Quick Reference Guide (PDF)](https://www.intelligize.com/wp-content/uploads/2017/09/intelligize_sec_forms_guide.pdf)
+	- [Investopedia SEC Filings You Need to Know](https://www.investopedia.com/articles/fundamental-analysis/08/sec-forms.asp)
 	- [Rank and Filed - SEC Filings for Humans](http://rankandfiled.com/#/)
 	- [Docoh - SEC Filing & Company Analysis](https://www.docoh.com)
 ###### [TOC](#toc)
