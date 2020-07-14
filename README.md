@@ -402,6 +402,7 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	- [SEC-API.io](https://www.sec-api.io/)
 	- [Alpha Vantage](https://www.alphavantage.co/)
 	- [Quantopian](https://www.quantopian.com/)
+	- [Norgate Data - Financial Market Data for Stocks, Futures and Forex](https://norgatedata.com/)
 	###### [TOC](#toc)
 
 ---
