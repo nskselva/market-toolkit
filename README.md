@@ -38,6 +38,11 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [HALTS, SHORT SELLING AND EXCHANGE RESOURCES](#halts-shorting-exchanges)
 - [PAID TRADING SERVICES/EDUCATION/CHAT ROOMS](#paid)
 - [BOOKS](#books)
+	- [General Stock Market/Uncategorized](#books-general)
+	- [Active Trading and Speculation](#books-active-trading-and-speculation)
+	- [Valuation and Accounting Tricks](#books-valuation-and-accounting-tricks)
+	- [Financial History/Psychology](#books-financial-history-and-psychology)
+	- [Options](#books-options)
 - [YOUTUBE CHANNELS](#youtube)
 - [TALKS/SPEECHES](#talks)
 - [STOCK MARKET MOVIES/DOCUMENTARIES](#movies-docs)
@@ -273,39 +278,74 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - **[Trade on the Fly - Active Trading Services](https://www.tradeonthefly.com/)**
 ###### [TOC](#toc)
 ---
-*<a id="books"></a>For books, I bolded the main titles of any I have personally read **and** found to be applicable in a practical sense, or were just really good. In general, all of these are commonly recommended and though some may be a bit dated I still think there are little tidbits within all of them that one may find useful. I'll categorize these and add to the list...eventually...maybe...*
-
-**BOOKS (in no particular order/categorization):**
-- [**Fed Up**: An Insider's Take on Why the Federal Reserve is Bad for America](https://www.amazon.com/Fed-Up-Insiders-Federal-Reserve/dp/0735211655)
-- [**Broken Markets**: How High Frequency Trading and Predatory Practices on Wall Street Are Destroying Investor Confidence and Your Portfolio](https://www.amazon.com/Broken-Markets-Frequency-Destroying-Confidence/dp/B0085AQS3A/)
-- [**Trading from Your Gut**: How to Use Right Brain Instinct & Left Brain Smarts to Become a Master Trader](https://www.amazon.com/Trading-Your-Gut-Instinct-Smarts/dp/B002YYWEKO)
-- [**Financial Shenanigans**: How to Detect Accounting Gimmicks & Fraud in Financial Reports](https://www.amazon.com/Financial-Shenanigans-Fourth-Accounting-Gimmicks/dp/B0764LJJH9)
-- [More Money Than God: Hedge Funds and the Making of a New Elite](https://www.amazon.com/More-Money-Than-God-Making/dp/B004AUQPF0)
-- [How to Make Money in Stocks: A Winning System in Good Times and Bad](https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/B00916ARYS)
-- [Reminiscences of a Stock Operator](https://www.amazon.com/Reminiscences-Stock-Operator-Edwin-Lef%C3%A8vre/dp/0471770884)
-- [Market Wizards](https://www.amazon.com/Market-Wizards-Updated-Interviews-Traders/dp/1118273052)
-- [**One Up on Wall Street**](https://www.amazon.com/One-Up-Wall-Street-Already/dp/0743200403/)
-- [**Trading in the Zone**](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447)
-- [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
-- [How To Trade in Stocks](https://www.amazon.com/How-Trade-Stocks-Jesse-Livermore-ebook/dp/B0062Y79M0)
-- [How to Day Trade for a Living: Tools, Tactics, Money Management, Discipline and Trading Psychology](https://www.amazon.com/How-Day-Trade-Living-Management-ebook/dp/B012C4AU10)
-- [Advanced Techniques in Day Trading: A Practical Guide to High Probability Day Trading Strategies and Methods](https://www.amazon.com/Advanced-Techniques-Day-Trading-Probability-ebook/dp/B07DQSFK7M)
-- [How To Swing Trade: A Beginner's Guide to Trading Tools, Money Management, Rules, Routines and Strategies of a Swing Trader](amazon.com/How-Swing-Trade-Management-Strategies-ebook/dp/B07HZ38XVQ)
-- [The Art and Science of Technical Analysis: Market Structure, Price Action, and Trading Strategies](amazon.com/Art-Science-Technical-Analysis-Strategies/dp/1118115120)
-- [Getting Started in Chart Patterns](amazon.com/Getting-Started-Patterns-Thomas-Bulkowski/dp/1118859200)
-- [Option Volatility and Pricing: Advanced Trading Strategies and Techniques](amazon.com/Option-Volatility-Pricing-Strategies-Techniques-ebook/dp/B00O2A7HMS/)
-- [Options as a Strategic Investment](https://www.amazon.com/Options-as-Strategic-Investment-Fifth/dp/0735204659/)
-- [The Only Options Trading Book You'll Ever Need](amazon.com/Options-Trading-Second-Option-Russell/dp/1945949511)
-- **[/r/SecurityAnalysis Wiki](https://www.reddit.com/r/SecurityAnalysis/wiki/index)**
+**<a id="books"></a>BOOKS:**
+- <a id="books-general"></a>General Stock Market/Uncategorized
+	- [How to Make Money in Stocks: A Winning System in Good Times and Bad](https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/B00916ARYS)
+	- [Market Wizards](https://www.amazon.com/Market-Wizards-Updated-Interviews-Traders/dp/1118273052)
+	- [One Up on Wall Street](https://www.amazon.com/One-Up-Wall-Street-Already/dp/0743200403/)
+	- [Reminiscences of a Stock Operator](https://www.amazon.com/Reminiscences-Stock-Operator-Edwin-Lef%C3%A8vre/dp/0471770884)
+	- [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
+	- [/r/SecurityAnalysis Wiki](https://www.reddit.com/r/SecurityAnalysis/wiki/index)
+###### [TOC](#toc)
+- <a id="books-active-trading-and-speculation"></a>Active Trading and Speculation
+	- [A Complete Guide To Volume Price Analysis](https://www.amazon.com/Complete-Guide-Price-Analysis/dp/1491249390/)
+	- [Advanced Techniques in Day Trading: A Practical Guide to High Probability Day Trading Strategies and Methods](https://www.amazon.com/Advanced-Techniques-Day-Trading-Probability-ebook/dp/B07DQSFK7M)
+	- [Common Stocks and Uncommon Profits and Other Writings](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509)
+	- [Getting Started in Chart Patterns](amazon.com/Getting-Started-Patterns-Thomas-Bulkowski/dp/1118859200)
+	- [How to Day Trade for a Living: Tools, Tactics, Money Management, Discipline and Trading Psychology](https://www.amazon.com/How-Day-Trade-Living-Management-ebook/dp/B012C4AU10)
+	- [How To Swing Trade: A Beginner's Guide to Trading Tools, Money Management, Rules, Routines and Strategies of a Swing Trader](amazon.com/How-Swing-Trade-Management-Strategies-ebook/dp/B07HZ38XVQ)
+	- [How To Trade in Stocks](https://www.amazon.com/How-Trade-Stocks-Jesse-Livermore-ebook/dp/B0062Y79M0)
+	- [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.amazon.com/Margin-Safety-Risk-Averse-Strategies-Thoughtful/dp/0887305105/)
+	- [Speculation as a Fine Art and Thoughts on Life](https://www.amazon.com/Speculation-Fine-Art-Thoughts-Life/dp/1440434972/)
+	- [Stock Trading & Investing Using Volume Price Analysis: Over 200 Worked Examples](https://www.amazon.com/Stock-Trading-Investing-Using-Analysis/dp/1983774111/)
+	- [Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications (New York Institute of Finance)](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661/)
+	- [The Alchemy of Finance](https://www.amazon.com/Alchemy-Finance-George-Soros/dp/0471445495/)
+	- [The Art and Science of Technical Analysis: Market Structure, Price Action, and Trading Strategies](amazon.com/Art-Science-Technical-Analysis-Strategies/dp/1118115120)
+	- [The New Trading for a Living: Psychology, Discipline, Trading Tools and Systems, Risk Control, Trade Management](https://www.amazon.com/New-Trading-Living-Psychology-Discipline/dp/1118443926/)
+	- [Trading from Your Gut: How to Use Right Brain Instinct & Left Brain Smarts to Become a Master Trader](https://www.amazon.com/Trading-Your-Gut-Instinct-Smarts/dp/B002YYWEKO)
+	- [Trading in the Zone](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447)
+###### [TOC](#toc)
+- <a id="books-valuation-and-accounting-tricks"></a>Valuation and Accounting Tricks
+	- [Beyond Earnings](https://www.amazon.com/Beyond-Earnings-Applying-Economic-Framework/dp/1119440483)
+	- [Financial Modeling & Valuation](https://www.amazon.com/Financial-Modeling-Valuation-Practical-Investment/dp/1118558766)
+	- [Financial Shenanigans: How to Detect Accounting Gimmicks & Fraud in Financial Reports](https://www.amazon.com/Financial-Shenanigans-Fourth-Accounting-Gimmicks/dp/B0764LJJH9)
+	- [Investment Banking](https://www.amazon.com/Investment-Banking-Valuation-Leveraged-Acquisitions-ebook/dp/B00CLPF85E)
+	- [Investment Valuation](http://www.amazon.com/Investment-Valuation-Techniques-Determining-Second/dp/0471414883)
+	- [Security Analysis and Business Valuation on Wall Street](http://www.amazon.com/Security-Analysis-Business-Valuation-Companion/dp/0470277343)
+	- [The Dark Side of Valuation](https://www.amazon.com/gp/product/B07CMB4L7N)
+	- [Valuation (McKinsey & Co)](https://www.amazon.com/Valuation-Measuring-Managing-Companies-Finance/dp/111887370X)
+###### [TOC](#toc)
+- <a id="books-financial-history-and-psychology"></a>Financial History/Psychology
+	- [Barbarians at the Gate: The Fall of RJR Nabisco](https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655554/)
+	- [Broken Markets: How High Frequency Trading and Predatory Practices on Wall Street Are Destroying Investor Confidence and Your Portfolio](https://www.amazon.com/Broken-Markets-Frequency-Destroying-Confidence/dp/B0085AQS3A/)
+	- [Den of Thieves](https://www.amazon.com/Den-of-Thieves-James-B-Stewart-audiobook/dp/B00F64VXUQ/)
+	- [Extraordinary Popular Delusions and the Madness of Crowds (Harriman Definitive Edition): The Classic Guide to Crowd Psychology, Financial Folly and Surprising Superstition](https://www.amazon.com/Extraordinary-Popular-Delusions-Harriman-Definitive/dp/0857197428/)
+	- [Fatal Risk: A Cautionary Tale of AIG's Corporate Suicide](https://www.amazon.com/Fatal-Risk-Cautionary-Corporate-Suicide/dp/0470889802/)
+	- [Fed Up: An Insider's Take on Why the Federal Reserve is Bad for America](https://www.amazon.com/Fed-Up-Insiders-Federal-Reserve/dp/0735211655)
+	- [Flash Boys: A Wall Street Revolt](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599/)
+	- [Liar's Poker (Sequel to the Big Short)](https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X/)
+	- [More Money Than God: Hedge Funds and the Making of a New Elite](https://www.amazon.com/More-Money-Than-God-Making/dp/B004AUQPF0)
+	- [The Big Short: Inside the Doomsday Machine](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827/)
+	- [The Frackers: The Outrageous Inside Story of the New Billionaire Wildcatters](https://www.amazon.com/Frackers-Outrageous-Inside-Billionaire-Wildcatters/dp/1591847095/)
+	- [The Great Crash 1929](https://www.amazon.com/Great-Crash-1929-Kenneth-Galbraith/dp/0547248164)
+	- [The Predators' Ball: The Inside Story of Drexel Burnham and the Rise of the JunkBond](https://www.amazon.com/Predators-Ball-Inside-Burnham-Raiders/dp/1982144262/)
+	- [The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron](https://www.amazon.com/Smartest-Guys-Room-Amazing-Scandalous/dp/1591846609/)
+	- [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259/)
+###### [TOC](#toc)
+- <a id="books-options"></a>Options
+	- [Option Volatility and Pricing: Advanced Trading Strategies and Techniques](amazon.com/Option-Volatility-Pricing-Strategies-Techniques-ebook/dp/B00O2A7HMS/)
+	- [Options as a Strategic Investment](https://www.amazon.com/Options-as-Strategic-Investment-Fifth/dp/0735204659/)
+	- [Options Made Easy: Your Guide to Profitable Trading (3rd Edition)](https://www.amazon.com/Options-Made-Easy-Profitable-Trading/dp/0133087891/)
+	- [The Only Options Trading Book You'll Ever Need](amazon.com/Options-Trading-Second-Option-Russell/dp/1945949511)
 ###### [TOC](#toc)
 ---
 **<a id="youtube"></a>YOUTUBE CHANNELS:**
-- **[LazyFA](https://www.youtube.com/channel/UCQ9LMi4xPU1zCICplsAe7Jw/)**
-- **[Jose Najarro Stocks & eSports](https://www.youtube.com/channel/UC5cEHfCr6WOE1R1zcohd1IA)**
+- **[LazyFA - Lots of Educational Livestreams/Webinars](https://www.youtube.com/channel/UCQ9LMi4xPU1zCICplsAe7Jw/)**
+- **[Jose Najarro Stocks - Excellent Fundamental Analysis and Research](https://www.youtube.com/channel/UC5cEHfCr6WOE1R1zcohd1IA)**
 - **[Invest with Sven Carlin, Ph.D.](https://www.youtube.com/channel/UCrTTBSUr0zhPU56UQljag5A)**
-- **[Bulls on Wall Street](https://www.youtube.com/user/bullsonwallstreet/)**
-- **[Investors Underground](https://www.youtube.com/user/investorsunderground/)**
-- **[Quoth The Raven Research](https://www.youtube.com/channel/UCxUo55-0ScpOQNdug8FCzzA/featured)**
+- **[Bulls on Wall Street - Lots of Technical Analysis/Active Trading Stuff](https://www.youtube.com/user/bullsonwallstreet/)**
+- **[Investors Underground - Same as Above](https://www.youtube.com/user/investorsunderground/)**
+- **[Quoth The Raven Research - Speeches/Podcasts](https://www.youtube.com/channel/UCxUo55-0ScpOQNdug8FCzzA/featured)**
 - **[Chat With Traders - Tons of Awesome Interviews](https://www.youtube.com/channel/UCdnzT5Tl6pAkATOiDsPhqcg)**
 ###### [TOC](#toc)
 ---
@@ -415,8 +455,9 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [Reddit /r/StockMarket](https://www.reddit.com/r/stockmarket)
 - [Reddit /r/Stocks](https://www.reddit.com/r/stocks)
 - [Reddit /r/Investing](https://www.reddit.com/r/investing)
+- [Reddit /r/Undervalued](https://www.reddit.com/r/undervalued)
 - [Reddit /r/WallStreetBets](https://www.reddit.com/r/wallstreetbets)
-- **[Reddit /r/StockMarket Official Discord Live Chat](https://discord.gg/9AJnkpu)**
+- **[Reddit /r/StockMarket Official Discord Live Chat](https://discord.gg/eYd3G5fu)**
 - **[Woot Street Live Chat](https://discord.gg/eHvyGPu)**
 - [Boiler Room Trading Discord](https://discord.com/invite/dJQ8CT5)
 ###### [TOC](#toc)
