@@ -280,18 +280,17 @@ Over the years I've amassed a large collection of links, resources, tools and so
 ---
 **<a id="books"></a>BOOKS:**
 - <a id="books-general"></a>General Stock Market/Uncategorized
+	- [Common Stocks and Uncommon Profits](https://www.amazon.com.au/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509)
 	- [How to Make Money in Stocks: A Winning System in Good Times and Bad](https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/B00916ARYS)
 	- [Market Wizards](https://www.amazon.com/Market-Wizards-Updated-Interviews-Traders/dp/1118273052)
 	- [One Up on Wall Street](https://www.amazon.com/One-Up-Wall-Street-Already/dp/0743200403/)
 	- [Reminiscences of a Stock Operator](https://www.amazon.com/Reminiscences-Stock-Operator-Edwin-Lef%C3%A8vre/dp/0471770884)
 	- [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
 	- [/r/SecurityAnalysis Wiki](https://www.reddit.com/r/SecurityAnalysis/wiki/index)
-	- [Common Stocks and Uncommon Profits](https://www.amazon.com.au/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509)
 ###### [TOC](#toc)
 - <a id="books-active-trading-and-speculation"></a>Active Trading and Speculation
 	- [A Complete Guide To Volume Price Analysis](https://www.amazon.com/Complete-Guide-Price-Analysis/dp/1491249390/)
 	- [Advanced Techniques in Day Trading: A Practical Guide to High Probability Day Trading Strategies and Methods](https://www.amazon.com/Advanced-Techniques-Day-Trading-Probability-ebook/dp/B07DQSFK7M)
-	- [Common Stocks and Uncommon Profits and Other Writings](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509)
 	- [Getting Started in Chart Patterns](amazon.com/Getting-Started-Patterns-Thomas-Bulkowski/dp/1118859200)
 	- [How to Day Trade for a Living: Tools, Tactics, Money Management, Discipline and Trading Psychology](https://www.amazon.com/How-Day-Trade-Living-Management-ebook/dp/B012C4AU10)
 	- [How To Swing Trade: A Beginner's Guide to Trading Tools, Money Management, Rules, Routines and Strategies of a Swing Trader](amazon.com/How-Swing-Trade-Management-Strategies-ebook/dp/B07HZ38XVQ)
@@ -317,29 +316,28 @@ Over the years I've amassed a large collection of links, resources, tools and so
 	- [Valuation (McKinsey & Co)](https://www.amazon.com/Valuation-Measuring-Managing-Companies-Finance/dp/111887370X)
 ###### [TOC](#toc)
 - <a id="books-financial-history-and-psychology"></a>Financial History/Psychology
-_Beware the man of one book_
+	- [Against the Gods: The Remarkable Story of Risk](https://www.amazon.com.au/Against-Gods-Remarkable-Story-Risk/dp/0471295639/)
+	- [All the Devils Are Here: The Hidden History of the Financial Crisis](https://www.amazon.com/All-Devils-Are-Here-Financial/dp/159184438X)
 	- [Barbarians at the Gate: The Fall of RJR Nabisco](https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655554/)
+	- [Boomerang: Travels in the New Third World](https://www.amazon.com/Boomerang-Travels-New-Third-World/dp/0393343448)
 	- [Broken Markets: How High Frequency Trading and Predatory Practices on Wall Street Are Destroying Investor Confidence and Your Portfolio](https://www.amazon.com/Broken-Markets-Frequency-Destroying-Confidence/dp/B0085AQS3A/)
 	- [Den of Thieves](https://www.amazon.com/Den-of-Thieves-James-B-Stewart-audiobook/dp/B00F64VXUQ/)
 	- [Extraordinary Popular Delusions and the Madness of Crowds (Harriman Definitive Edition): The Classic Guide to Crowd Psychology, Financial Folly and Surprising Superstition](https://www.amazon.com/Extraordinary-Popular-Delusions-Harriman-Definitive/dp/0857197428/)
 	- [Fatal Risk: A Cautionary Tale of AIG's Corporate Suicide](https://www.amazon.com/Fatal-Risk-Cautionary-Corporate-Suicide/dp/0470889802/)
 	- [Fed Up: An Insider's Take on Why the Federal Reserve is Bad for America](https://www.amazon.com/Fed-Up-Insiders-Federal-Reserve/dp/0735211655)
 	- [Flash Boys: A Wall Street Revolt](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599/)
+	- [Fooled By Randomness: The Hidden Role Of Chance In Life And In The Markets](https://www.amazon.com.au/Fooled-Randomness-Hidden-Chance-Markets/dp/0141031484/)
+	- [Infectious Greed: How Deceit and Risk Corrupted the Financial Markets](https://www.amazon.com.au/Infectious-Greed-Corrupted-Financial-Markets-ebook/dp/B0041G68UA/)
 	- [Liar's Poker (Prequel to the Big Short)](https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X/)
-	- [The Big Short: Inside the Doomsday Machine](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827/)
 	- [More Money Than God: Hedge Funds and the Making of a New Elite](https://www.amazon.com/More-Money-Than-God-Making/dp/B004AUQPF0)
+	- [Poor Charlie's Almanack](https://www.amazon.com.au/Poor-Charlies-Almanack-Expanded-3rd/dp/1578645018)
+	- [The Big Short: Inside the Doomsday Machine](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827/)
+	- [The Black Swan, Second Edition: The Impact of the Highly Improbable](https://www.amazon.com.au/Black-Swan-Second-Improbable-Robustness/dp/B07KRNSX9L/)
 	- [The Frackers: The Outrageous Inside Story of the New Billionaire Wildcatters](https://www.amazon.com/Frackers-Outrageous-Inside-Billionaire-Wildcatters/dp/1591847095/)
 	- [The Great Crash 1929](https://www.amazon.com/Great-Crash-1929-Kenneth-Galbraith/dp/0547248164)
 	- [The Predators' Ball: The Inside Story of Drexel Burnham and the Rise of the JunkBond](https://www.amazon.com/Predators-Ball-Inside-Burnham-Raiders/dp/1982144262/)
 	- [The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron](https://www.amazon.com/Smartest-Guys-Room-Amazing-Scandalous/dp/1591846609/)
 	- [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259/)
-	- [Infectious Greed: How Deceit and Risk Corrupted the Financial Markets](https://www.amazon.com.au/Infectious-Greed-Corrupted-Financial-Markets-ebook/dp/B0041G68UA/)
-	- [Against the Gods: The Remarkable Story of Risk](https://www.amazon.com.au/Against-Gods-Remarkable-Story-Risk/dp/0471295639/)
-	- [Fooled By Randomness: The Hidden Role Of Chance In Life And In The Markets](https://www.amazon.com.au/Fooled-Randomness-Hidden-Chance-Markets/dp/0141031484/) _Editor's note: Taleb is an arrogant jerk, but he's mostly right. You just have to look past his flaws._
-	- [The Black Swan, Second Edition: The Impact of the Highly Improbable](https://www.amazon.com.au/Black-Swan-Second-Improbable-Robustness/dp/B07KRNSX9L/)
-	- [Boomerang: Travels in the New Third World](https://www.amazon.com/Boomerang-Travels-New-Third-World/dp/0393343448)
-	- [All the Devils Are Here: The Hidden History of the Financial Crisis](https://www.amazon.com/All-Devils-Are-Here-Financial/dp/159184438X)
-	- [Poor Charlie's Almanack](https://www.amazon.com.au/Poor-Charlies-Almanack-Expanded-3rd/dp/1578645018)	
 	
 ###### [TOC](#toc)
 - <a id="books-options"></a>Options
