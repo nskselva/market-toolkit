@@ -56,6 +56,8 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [BLOGS/DISCUSSION FORUMS/LIVE CHATS/MISC RESOURCES](#blogs)
 ---
 **<a id="getting-started"></a>GETTING STARTED:**
+As a beginner be aware there are two general approaches to investing: active and passive. 99% of the population should be passive investors. Studying this toolkit is really only necessary for someone who is looking to be an active investor. Neither approach will make you rich quickly. Using active approaches you are very likely to lose money as a beginner.  
+
 - **[Investopedia - How to Start Investing in Stocks](https://www.investopedia.com/articles/basics/06/invest1000.asp)**
 - [Fundamentals of Active Trading](https://youtu.be/TprZoVbfZ18)
 - [Five Things to Look for on Every Trade](https://www.youtube.com/watch?v=d1cSG-6GIlU)
