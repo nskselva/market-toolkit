@@ -225,6 +225,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [Stock Market Watch Ideas](http://thestockmarketwatch.com/ideas/)
 - [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
 - [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
+- [SocialSentiment.io - Social Media Sentiment Analysis](https://socialsentiment.io/)
 ###### [TOC](#toc)
 ---
 **<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
@@ -413,6 +414,7 @@ There are two general approaches to investing: active and passive. Active invest
 	 - [BioRunUp](https://twitter.com/BioRunUp)
 	 - [NYC Trader](https://twitter.com/szaman)
 	 - [Kunal Desai](https://twitter.com/kunal00)
+	 - [SentimEntropy](https://twitter.com/SentimEntropy)
 ###### [TOC](#toc)
 
  - <a id="twitter-research"></a>Research/Journalist/Funds/HFT:
