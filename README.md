@@ -77,6 +77,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [Investopedia Investing Essentials Category](https://www.investopedia.com/investing-essentials-4689754)
 - [Jason Leavitt's Free Mini Masterclass in Trading](https://jason-leavitt-masterclass-in-trading.teachable.com/p/free-mini-masterclass-in-trading)
 - [OptionAlpha Education Center](https://optionalpha.com/members/education)
+- [Open Investing Guide - Simple Passive Portfolio](https://herget.github.io/investing-guide/)
 ###### [TOC](#toc)
 ---
 *<a id="brokers"></a>I've categorized brokers into two groups based on the types of clients they cater to. Long-term-focused brokers tend to offer IRAs, 401k's and other types of retirement accounts. Active trading/professional brokers tend to have more advanced software, faster executions, and cater to traders who are more active in the markets. One is not necessarily better, and many people will use both.*
