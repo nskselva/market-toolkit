@@ -130,6 +130,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [IPOScoop - Lots of handy info on IPOs](https://www.iposcoop.com/)
 - [Stockrow - News, Fundamental Data and Screeners](https://www.stockrow.com/)
 - [Stock Analysis - Free Online Stock Information for Investors](https://www.stockanalysis.com/)
+- [StockComps - Compare Investment Returns](https://www.stockcomps.com/)
 - **[BioPharmCatalyst - Biotech-Specific Research](https://www.biopharmcatalyst.com/)**
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 - [The Ultimate Investing Checklist](https://www.reddit.com/r/investing/comments/bpriju/the_ultimate_investing_checklist/)
