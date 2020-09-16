@@ -282,6 +282,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [Warrior Trading](https://www.warriortrading.com)
 - [Clay Trader](https://www.claytrader.com/)
 - **[Trade on the Fly - Active Trading Services](https://www.tradeonthefly.com/)**
+- [Benzinga Pro](https://pro.benzinga.com/)
 ###### [TOC](#toc)
 ---
 **<a id="books"></a>BOOKS:**
