@@ -136,6 +136,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [The Ultimate Investing Checklist](https://www.reddit.com/r/investing/comments/bpriju/the_ultimate_investing_checklist/)
 - [Stock Market Analytics](https://www.equitieslab.com/)
 - [Market Chameleon](https://www.marketchameleon.com/)
+- [CityFALCON - Personalized Financial News Feed and Data Warehouse](https://www.cityfalcon.com/)
 ###### [TOC](#toc)
 ---
 **<a id="calendars"></a>CALENDARS:**
