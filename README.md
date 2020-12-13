@@ -474,7 +474,7 @@ There are two general approaches to investing: active and passive. Active invest
 - [Reddit /r/StockMarket](https://www.reddit.com/r/stockmarket)
 - [Reddit /r/Stocks](https://www.reddit.com/r/stocks)
 - [Reddit /r/Investing](https://www.reddit.com/r/investing)
-- [Reddit /r/Undervalued](https://www.reddit.com/r/undervalued)
+- [Reddit /r/UndervaluedStonks](https://www.reddit.com/r/UndervaluedStonks)
 - [Reddit /r/WallStreetBets](https://www.reddit.com/r/wallstreetbets)
 - **[Reddit /r/StockMarket Official Discord Live Chat](https://discord.gg/eYd3G5fu)**
 - **[Woot Street Live Chat](https://discord.gg/eHvyGPu)**
