@@ -460,7 +460,6 @@ There are two general approaches to investing: active and passive. Active invest
 	- [Polygon - APIs for Stocks, Forex and Crypto](https://www.polygon.io/)
 	- [SEC-API.io](https://www.sec-api.io/)
 	- [Alpha Vantage](https://www.alphavantage.co/)
-	- [Quantopian](https://www.quantopian.com/)
 	- [Norgate Data - Financial Market Data for Stocks, Futures and Forex](https://norgatedata.com/)
 	###### [TOC](#toc)
 
