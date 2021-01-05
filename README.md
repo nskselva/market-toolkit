@@ -232,6 +232,8 @@ There are two general approaches to investing: active and passive. Active invest
 - [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
 - [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
 - [SocialSentiment.io - Social Media Sentiment Analysis](https://socialsentiment.io/)
+- [senatestockwatcher.com - Senate Stock Watcher](https://senatestockwatcher.com/)
+- [Ortex.com - ORTEX](https://www.ortex.com)
 ###### [TOC](#toc)
 ---
 **<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
