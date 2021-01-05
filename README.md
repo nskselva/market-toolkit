@@ -56,9 +56,11 @@ Over the years I've amassed a large collection of links, resources, tools and so
 - [BLOGS/DISCUSSION FORUMS/LIVE CHATS/MISC RESOURCES](#blogs)
 ---
 **<a id="getting-started"></a>GETTING STARTED:**
-As a beginner be aware there are two general approaches to investing: active and passive. 99% of the population should be passive investors. Studying this toolkit is really only necessary for someone who is looking to be an active investor. Neither approach will make you rich quickly. Using active approaches you are very likely to lose money as a beginner.  
+
+There are two general approaches to investing: active and passive. Active investing implies you are actively buying and selling stocks, bonds, options and so on, conducting research and making active decisions about the investments you make. Passive investing implies you are more disconnected from the market, passively investing money into mutual funds, ETFs, IRAs, 401Ks and allowing the managers of those funds to manage those investments, not focusing on individual stocks, or you may have hired a financial advisor or wealth manager. Neither approach will make you rich quickly. Using active approaches you are very likely to lose money as a beginner. Active investing takes a large amount of work and research and most people will not beat the market's returns over the long term. If you are brand new, it's best to start with passive approaches while you get your feet wet and learn about more active strategies, and gradually work towards becoming more and more active. 
 
 - **[Investopedia - How to Start Investing in Stocks](https://www.investopedia.com/articles/basics/06/invest1000.asp)**
+- [The Ultimate Fundamentals Guide on What You Need to Learn First](https://www.reddit.com/r/UndervaluedStonks/comments/kheec2/the_ultimate_fundamentals_guide_on_what_you_need)
 - [Fundamentals of Active Trading](https://youtu.be/TprZoVbfZ18)
 - [Five Things to Look for on Every Trade](https://www.youtube.com/watch?v=d1cSG-6GIlU)
 - **[LazyFA Market Essentials](https://www.youtube.com/watch?v=7pwKL_km9hg&list=PLJ94CeEi9Aa5FNL2DDsz0ePfJdpoCar9i)**
@@ -76,6 +78,7 @@ As a beginner be aware there are two general approaches to investing: active and
 - [Investopedia Investing Essentials Category](https://www.investopedia.com/investing-essentials-4689754)
 - [Jason Leavitt's Free Mini Masterclass in Trading](https://jason-leavitt-masterclass-in-trading.teachable.com/p/free-mini-masterclass-in-trading)
 - [OptionAlpha Education Center](https://optionalpha.com/members/education)
+- [Open Investing Guide - Simple Passive Portfolio](https://herget.github.io/investing-guide/)
 ###### [TOC](#toc)
 ---
 *<a id="brokers"></a>I've categorized brokers into two groups based on the types of clients they cater to. Long-term-focused brokers tend to offer IRAs, 401k's and other types of retirement accounts. Active trading/professional brokers tend to have more advanced software, faster executions, and cater to traders who are more active in the markets. One is not necessarily better, and many people will use both.*
@@ -128,11 +131,13 @@ As a beginner be aware there are two general approaches to investing: active and
 - [IPOScoop - Lots of handy info on IPOs](https://www.iposcoop.com/)
 - [Stockrow - News, Fundamental Data and Screeners](https://www.stockrow.com/)
 - [Stock Analysis - Free Online Stock Information for Investors](https://www.stockanalysis.com/)
+- [StockComps - Compare Investment Returns](https://www.stockcomps.com/)
 - **[BioPharmCatalyst - Biotech-Specific Research](https://www.biopharmcatalyst.com/)**
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 - [The Ultimate Investing Checklist](https://www.reddit.com/r/investing/comments/bpriju/the_ultimate_investing_checklist/)
 - [Stock Market Analytics](https://www.equitieslab.com/)
 - [Market Chameleon](https://www.marketchameleon.com/)
+- [CityFALCON - Personalized Financial News Feed and Data Warehouse](https://www.cityfalcon.com/)
 ###### [TOC](#toc)
 ---
 **<a id="calendars"></a>CALENDARS:**
@@ -207,6 +212,7 @@ As a beginner be aware there are two general approaches to investing: active and
 - [Docoh - SEC Filing & Company Analysis](https://www.docoh.com)
 - **[Macrotrends - The Long Term Perspective on Markets](https://www.macrotrends.net/)**
 - [Beeken - Investing Tools Reimagined](https://www.beeken.io/)
+- [sharelab - US Stock Comparison Based on Empirical Finance Academia](https://www.sharelab.com)
 ###### [TOC](#toc)
 ---
 **<a id="scanners"></a>SCANNERS, SCREENERS & IDEA GENERATION:**
@@ -222,8 +228,10 @@ As a beginner be aware there are two general approaches to investing: active and
 - **[TradeIdeas Realtime Scanning/Screening](https://www.trade-ideas.com/)**
 - [StockCharts Predefined Scans](https://stockcharts.com/def/servlet/SC.scan)
 - [Stock Market Watch Ideas](http://thestockmarketwatch.com/ideas/)
+- [Optionsonar - Unusual Options Activity & Order Flow Scanner](https://www.optionsonar.com/)
 - [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
 - [TrendSpider - Technical Analysis Scanning, Backtesting, Alerts and Charting](https://www.trendspider.com/)
+- [SocialSentiment.io - Social Media Sentiment Analysis](https://socialsentiment.io/)
 ###### [TOC](#toc)
 ---
 **<a id="trade-analysis"></a>TRADE ANALYSIS & REVIEW:**
@@ -278,22 +286,22 @@ As a beginner be aware there are two general approaches to investing: active and
 - [Warrior Trading](https://www.warriortrading.com)
 - [Clay Trader](https://www.claytrader.com/)
 - **[Trade on the Fly - Active Trading Services](https://www.tradeonthefly.com/)**
+- [Benzinga Pro](https://pro.benzinga.com/)
 ###### [TOC](#toc)
 ---
 **<a id="books"></a>BOOKS:**
 - <a id="books-general"></a>General Stock Market/Uncategorized
+	- [Common Stocks and Uncommon Profits](https://www.amazon.com.au/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509)
 	- [How to Make Money in Stocks: A Winning System in Good Times and Bad](https://www.amazon.com/How-Make-Money-Stocks-Winning/dp/B00916ARYS)
 	- [Market Wizards](https://www.amazon.com/Market-Wizards-Updated-Interviews-Traders/dp/1118273052)
 	- [One Up on Wall Street](https://www.amazon.com/One-Up-Wall-Street-Already/dp/0743200403/)
 	- [Reminiscences of a Stock Operator](https://www.amazon.com/Reminiscences-Stock-Operator-Edwin-Lef%C3%A8vre/dp/0471770884)
 	- [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
 	- [/r/SecurityAnalysis Wiki](https://www.reddit.com/r/SecurityAnalysis/wiki/index)
-	- [Common Stocks and Uncommon Profits](https://www.amazon.com.au/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509)
 ###### [TOC](#toc)
 - <a id="books-active-trading-and-speculation"></a>Active Trading and Speculation
 	- [A Complete Guide To Volume Price Analysis](https://www.amazon.com/Complete-Guide-Price-Analysis/dp/1491249390/)
 	- [Advanced Techniques in Day Trading: A Practical Guide to High Probability Day Trading Strategies and Methods](https://www.amazon.com/Advanced-Techniques-Day-Trading-Probability-ebook/dp/B07DQSFK7M)
-	- [Common Stocks and Uncommon Profits and Other Writings](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509)
 	- [Getting Started in Chart Patterns](amazon.com/Getting-Started-Patterns-Thomas-Bulkowski/dp/1118859200)
 	- [How to Day Trade for a Living: Tools, Tactics, Money Management, Discipline and Trading Psychology](https://www.amazon.com/How-Day-Trade-Living-Management-ebook/dp/B012C4AU10)
 	- [How To Swing Trade: A Beginner's Guide to Trading Tools, Money Management, Rules, Routines and Strategies of a Swing Trader](amazon.com/How-Swing-Trade-Management-Strategies-ebook/dp/B07HZ38XVQ)
@@ -319,29 +327,28 @@ As a beginner be aware there are two general approaches to investing: active and
 	- [Valuation (McKinsey & Co)](https://www.amazon.com/Valuation-Measuring-Managing-Companies-Finance/dp/111887370X)
 ###### [TOC](#toc)
 - <a id="books-financial-history-and-psychology"></a>Financial History/Psychology
-_Beware the man of one book_
+	- [Against the Gods: The Remarkable Story of Risk](https://www.amazon.com.au/Against-Gods-Remarkable-Story-Risk/dp/0471295639/)
+	- [All the Devils Are Here: The Hidden History of the Financial Crisis](https://www.amazon.com/All-Devils-Are-Here-Financial/dp/159184438X)
 	- [Barbarians at the Gate: The Fall of RJR Nabisco](https://www.amazon.com/Barbarians-Gate-Fall-RJR-Nabisco/dp/0061655554/)
+	- [Boomerang: Travels in the New Third World](https://www.amazon.com/Boomerang-Travels-New-Third-World/dp/0393343448)
 	- [Broken Markets: How High Frequency Trading and Predatory Practices on Wall Street Are Destroying Investor Confidence and Your Portfolio](https://www.amazon.com/Broken-Markets-Frequency-Destroying-Confidence/dp/B0085AQS3A/)
 	- [Den of Thieves](https://www.amazon.com/Den-of-Thieves-James-B-Stewart-audiobook/dp/B00F64VXUQ/)
 	- [Extraordinary Popular Delusions and the Madness of Crowds (Harriman Definitive Edition): The Classic Guide to Crowd Psychology, Financial Folly and Surprising Superstition](https://www.amazon.com/Extraordinary-Popular-Delusions-Harriman-Definitive/dp/0857197428/)
 	- [Fatal Risk: A Cautionary Tale of AIG's Corporate Suicide](https://www.amazon.com/Fatal-Risk-Cautionary-Corporate-Suicide/dp/0470889802/)
 	- [Fed Up: An Insider's Take on Why the Federal Reserve is Bad for America](https://www.amazon.com/Fed-Up-Insiders-Federal-Reserve/dp/0735211655)
 	- [Flash Boys: A Wall Street Revolt](https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599/)
+	- [Fooled By Randomness: The Hidden Role Of Chance In Life And In The Markets](https://www.amazon.com.au/Fooled-Randomness-Hidden-Chance-Markets/dp/0141031484/)
+	- [Infectious Greed: How Deceit and Risk Corrupted the Financial Markets](https://www.amazon.com.au/Infectious-Greed-Corrupted-Financial-Markets-ebook/dp/B0041G68UA/)
 	- [Liar's Poker (Prequel to the Big Short)](https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X/)
-	- [The Big Short: Inside the Doomsday Machine](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827/)
 	- [More Money Than God: Hedge Funds and the Making of a New Elite](https://www.amazon.com/More-Money-Than-God-Making/dp/B004AUQPF0)
+	- [Poor Charlie's Almanack](https://www.amazon.com.au/Poor-Charlies-Almanack-Expanded-3rd/dp/1578645018)
+	- [The Big Short: Inside the Doomsday Machine](https://www.amazon.com/Big-Short-Inside-Doomsday-Machine/dp/0393338827/)
+	- [The Black Swan, Second Edition: The Impact of the Highly Improbable](https://www.amazon.com.au/Black-Swan-Second-Improbable-Robustness/dp/B07KRNSX9L/)
 	- [The Frackers: The Outrageous Inside Story of the New Billionaire Wildcatters](https://www.amazon.com/Frackers-Outrageous-Inside-Billionaire-Wildcatters/dp/1591847095/)
 	- [The Great Crash 1929](https://www.amazon.com/Great-Crash-1929-Kenneth-Galbraith/dp/0547248164)
 	- [The Predators' Ball: The Inside Story of Drexel Burnham and the Rise of the JunkBond](https://www.amazon.com/Predators-Ball-Inside-Burnham-Raiders/dp/1982144262/)
 	- [The Smartest Guys in the Room: The Amazing Rise and Scandalous Fall of Enron](https://www.amazon.com/Smartest-Guys-Room-Amazing-Scandalous/dp/1591846609/)
 	- [When Genius Failed: The Rise and Fall of Long-Term Capital Management](https://www.amazon.com/When-Genius-Failed-Long-Term-Management/dp/0375758259/)
-	- [Infectious Greed: How Deceit and Risk Corrupted the Financial Markets](https://www.amazon.com.au/Infectious-Greed-Corrupted-Financial-Markets-ebook/dp/B0041G68UA/)
-	- [Against the Gods: The Remarkable Story of Risk](https://www.amazon.com.au/Against-Gods-Remarkable-Story-Risk/dp/0471295639/)
-	- [Fooled By Randomness: The Hidden Role Of Chance In Life And In The Markets](https://www.amazon.com.au/Fooled-Randomness-Hidden-Chance-Markets/dp/0141031484/) _Editor's note: Taleb is an arrogant jerk, but he's mostly right. You just have to look past his flaws._
-	- [The Black Swan, Second Edition: The Impact of the Highly Improbable](https://www.amazon.com.au/Black-Swan-Second-Improbable-Robustness/dp/B07KRNSX9L/)
-	- [Boomerang: Travels in the New Third World](https://www.amazon.com/Boomerang-Travels-New-Third-World/dp/0393343448)
-	- [All the Devils Are Here: The Hidden History of the Financial Crisis](https://www.amazon.com/All-Devils-Are-Here-Financial/dp/159184438X)
-	- [Poor Charlie's Almanack](https://www.amazon.com.au/Poor-Charlies-Almanack-Expanded-3rd/dp/1578645018)	
 	
 ###### [TOC](#toc)
 - <a id="books-options"></a>Options
@@ -414,6 +421,7 @@ _Beware the man of one book_
 	 - [BioRunUp](https://twitter.com/BioRunUp)
 	 - [NYC Trader](https://twitter.com/szaman)
 	 - [Kunal Desai](https://twitter.com/kunal00)
+	 - [SentimEntropy](https://twitter.com/SentimEntropy)
 ###### [TOC](#toc)
 
  - <a id="twitter-research"></a>Research/Journalist/Funds/HFT:
@@ -453,7 +461,6 @@ _Beware the man of one book_
 	- [Polygon - APIs for Stocks, Forex and Crypto](https://www.polygon.io/)
 	- [SEC-API.io](https://www.sec-api.io/)
 	- [Alpha Vantage](https://www.alphavantage.co/)
-	- [Quantopian](https://www.quantopian.com/)
 	- [Norgate Data - Financial Market Data for Stocks, Futures and Forex](https://norgatedata.com/)
 	###### [TOC](#toc)
 
@@ -467,7 +474,7 @@ _Beware the man of one book_
 - [Reddit /r/StockMarket](https://www.reddit.com/r/stockmarket)
 - [Reddit /r/Stocks](https://www.reddit.com/r/stocks)
 - [Reddit /r/Investing](https://www.reddit.com/r/investing)
-- [Reddit /r/Undervalued](https://www.reddit.com/r/undervalued)
+- [Reddit /r/UndervaluedStonks](https://www.reddit.com/r/UndervaluedStonks)
 - [Reddit /r/WallStreetBets](https://www.reddit.com/r/wallstreetbets)
 - **[Reddit /r/StockMarket Official Discord Live Chat](https://discord.gg/eYd3G5fu)**
 - **[Woot Street Live Chat](https://discord.gg/eHvyGPu)**
