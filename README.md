@@ -306,7 +306,7 @@ There are two general approaches to investing: active and passive. Active invest
 	- [Advanced Techniques in Day Trading: A Practical Guide to High Probability Day Trading Strategies and Methods](https://www.amazon.com/Advanced-Techniques-Day-Trading-Probability-ebook/dp/B07DQSFK7M)
 	- [Getting Started in Chart Patterns](https://www.amazon.com/Getting-Started-Patterns-Thomas-Bulkowski/dp/1118859200)
 	- [How to Day Trade for a Living: Tools, Tactics, Money Management, Discipline and Trading Psychology](https://www.amazon.com/How-Day-Trade-Living-Management-ebook/dp/B012C4AU10)
-	- [How To Swing Trade: A Beginner's Guide to Trading Tools, Money Management, Rules, Routines and Strategies of a Swing Trader](amazon.com/How-Swing-Trade-Management-Strategies-ebook/dp/B07HZ38XVQ)
+	- [How To Swing Trade: A Beginner's Guide to Trading Tools, Money Management, Rules, Routines and Strategies of a Swing Trader](https://www.amazon.com/How-Swing-Trade-Management-Strategies-ebook/dp/B07HZ38XVQ)
 	- [How To Trade in Stocks](https://www.amazon.com/How-Trade-Stocks-Jesse-Livermore-ebook/dp/B0062Y79M0)
 	- [Margin of Safety: Risk-Averse Value Investing Strategies for the Thoughtful Investor](https://www.amazon.com/Margin-Safety-Risk-Averse-Strategies-Thoughtful/dp/0887305105/)
 	- [Speculation as a Fine Art and Thoughts on Life](https://www.amazon.com/Speculation-Fine-Art-Thoughts-Life/dp/1440434972/)
