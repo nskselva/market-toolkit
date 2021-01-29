@@ -304,7 +304,7 @@ There are two general approaches to investing: active and passive. Active invest
 - <a id="books-active-trading-and-speculation"></a>Active Trading and Speculation
 	- [A Complete Guide To Volume Price Analysis](https://www.amazon.com/Complete-Guide-Price-Analysis/dp/1491249390/)
 	- [Advanced Techniques in Day Trading: A Practical Guide to High Probability Day Trading Strategies and Methods](https://www.amazon.com/Advanced-Techniques-Day-Trading-Probability-ebook/dp/B07DQSFK7M)
-	- [Getting Started in Chart Patterns](amazon.com/Getting-Started-Patterns-Thomas-Bulkowski/dp/1118859200)
+	- [Getting Started in Chart Patterns](https://www.amazon.com/Getting-Started-Patterns-Thomas-Bulkowski/dp/1118859200)
 	- [How to Day Trade for a Living: Tools, Tactics, Money Management, Discipline and Trading Psychology](https://www.amazon.com/How-Day-Trade-Living-Management-ebook/dp/B012C4AU10)
 	- [How To Swing Trade: A Beginner's Guide to Trading Tools, Money Management, Rules, Routines and Strategies of a Swing Trader](amazon.com/How-Swing-Trade-Management-Strategies-ebook/dp/B07HZ38XVQ)
 	- [How To Trade in Stocks](https://www.amazon.com/How-Trade-Stocks-Jesse-Livermore-ebook/dp/B0062Y79M0)
@@ -313,7 +313,7 @@ There are two general approaches to investing: active and passive. Active invest
 	- [Stock Trading & Investing Using Volume Price Analysis: Over 200 Worked Examples](https://www.amazon.com/Stock-Trading-Investing-Using-Analysis/dp/1983774111/)
 	- [Technical Analysis of the Financial Markets: A Comprehensive Guide to Trading Methods and Applications (New York Institute of Finance)](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661/)
 	- [The Alchemy of Finance](https://www.amazon.com/Alchemy-Finance-George-Soros/dp/0471445495/)
-	- [The Art and Science of Technical Analysis: Market Structure, Price Action, and Trading Strategies](amazon.com/Art-Science-Technical-Analysis-Strategies/dp/1118115120)
+	- [The Art and Science of Technical Analysis: Market Structure, Price Action, and Trading Strategies](https://www.amazon.com/Art-Science-Technical-Analysis-Strategies/dp/1118115120)
 	- [The New Trading for a Living: Psychology, Discipline, Trading Tools and Systems, Risk Control, Trade Management](https://www.amazon.com/New-Trading-Living-Psychology-Discipline/dp/1118443926/)
 	- [Trading from Your Gut: How to Use Right Brain Instinct & Left Brain Smarts to Become a Master Trader](https://www.amazon.com/Trading-Your-Gut-Instinct-Smarts/dp/B002YYWEKO)
 	- [Trading in the Zone](https://www.amazon.com/Trading-Zone-Confidence-Discipline-Attitude/dp/0735201447)
@@ -327,6 +327,7 @@ There are two general approaches to investing: active and passive. Active invest
 	- [Security Analysis and Business Valuation on Wall Street](http://www.amazon.com/Security-Analysis-Business-Valuation-Companion/dp/0470277343)
 	- [The Dark Side of Valuation](https://www.amazon.com/gp/product/B07CMB4L7N)
 	- [Valuation (McKinsey & Co)](https://www.amazon.com/Valuation-Measuring-Managing-Companies-Finance/dp/111887370X)
+	- [How to Keep Score in Business - Accounting and Financial Analysis for the Non-Accountant](https://www.amazon.com/How-Keep-Score-Business-Non-Accountant-ebook/dp/B005WTAHRA)
 ###### [TOC](#toc)
 - <a id="books-financial-history-and-psychology"></a>Financial History/Psychology
 	- [Against the Gods: The Remarkable Story of Risk](https://www.amazon.com.au/Against-Gods-Remarkable-Story-Risk/dp/0471295639/)
@@ -354,10 +355,10 @@ There are two general approaches to investing: active and passive. Active invest
 	
 ###### [TOC](#toc)
 - <a id="books-options"></a>Options
-	- [Option Volatility and Pricing: Advanced Trading Strategies and Techniques](amazon.com/Option-Volatility-Pricing-Strategies-Techniques-ebook/dp/B00O2A7HMS/)
+	- [Option Volatility and Pricing: Advanced Trading Strategies and Techniques](https://www.amazon.com/Option-Volatility-Pricing-Strategies-Techniques-ebook/dp/B00O2A7HMS/)
 	- [Options as a Strategic Investment](https://www.amazon.com/Options-as-Strategic-Investment-Fifth/dp/0735204659/)
 	- [Options Made Easy: Your Guide to Profitable Trading (3rd Edition)](https://www.amazon.com/Options-Made-Easy-Profitable-Trading/dp/0133087891/)
-	- [The Only Options Trading Book You'll Ever Need](amazon.com/Options-Trading-Second-Option-Russell/dp/1945949511)
+	- [The Only Options Trading Book You'll Ever Need](https://www.amazon.com/Options-Trading-Second-Option-Russell/dp/1945949511)
 ###### [TOC](#toc)
 ---
 **<a id="youtube"></a>YOUTUBE CHANNELS:**
