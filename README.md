@@ -1,7 +1,3 @@
-
-
-
-
 # THE ULTIMATE STOCK MARKET TOOLKIT
 Over the years I've amassed a large collection of links, resources, tools and so on that I find useful in my trading/investing activities. I'm compiling those here, along with any that were shared with me via Twitter/Reddit/email/etc and seemed useful after a cursory look. While I've done my best to link to tools that are not only legitimate but also likely to stay active, alive and useful for the foreseeable future, obviously I have no control over these companies/websites and over time some of the links may break or situations may emerge that turn them into poor recommendations. Also, this list is not exhaustive by any means and may be updated in the future as new tools/resources emerge.
 
@@ -13,46 +9,47 @@ Over the years I've amassed a large collection of links, resources, tools and so
 # <a id="toc"></a>Table of Contents:
 - [GETTING STARTED](#getting-started)
 - [BROKERS & TRADING SOFTWARE](#brokers)
-	- [Investing/Long-term](#brokers-investing)
-	- [Active Trading/Professional](#brokers-active)
-	- [Canadian](#brokers-canadian)
-	- [European](#brokers-european)
-	- [Reviews](#brokers-reviews)
+    - [Investing/Long-term](#brokers-investing)
+    - [Active Trading/Professional](#brokers-active)
+    - [Canadian](#brokers-canadian)
+    - [European](#brokers-european)
+    - [Reviews](#brokers-reviews)
 - [GENERAL STOCK MARKET RESEARCH](#research)
 - [CALENDARS](#calendars)
-	- [Earnings Calendars](#earnings-calendars)
-	- [Dividend/Ex-Dividend Calendars](#dividend-calendars)
-	- [Economic Calendars](#economic-calendars)
-	- [Misc Calendars](#misc-calendars)
+    - [Earnings Calendars](#earnings-calendars)
+    - [Dividend/Ex-Dividend Calendars](#dividend-calendars)
+    - [Economic Calendars](#economic-calendars)
+    - [Misc Calendars](#misc-calendars)
 - [TECHNICAL ANALYSIS](#ta-education)
-	- [Education](#ta-education)
-	- [Tools](#ta-tools)
+    - [Education](#ta-education)
+    - [Tools](#ta-tools)
 - [FUNDAMENTAL ANALYSIS](#fa-education)
-	- [Education](#fa-education)
-	- [Tools](#fa-tools)
+    - [Education](#fa-education)
+    - [Tools](#fa-tools)
 - [SCANNERS, SCREENERS & IDEA GENERATION](#scanners)
 - [TRADE ANALYSIS & REVIEW](#trade-analysis)
 - [SEC FILINGS](#filings)
-	- [Research & Education](#filings-education)
-	- [Daily Filings by Type](#filings-daily)
+    - [Research & Education](#filings-education)
+    - [Daily Filings by Type](#filings-daily)
 - [HALTS, SHORT SELLING AND EXCHANGE RESOURCES](#halts-shorting-exchanges)
 - [PAID TRADING SERVICES/EDUCATION/CHAT ROOMS](#paid)
 - [BOOKS](#books)
-	- [General Stock Market/Uncategorized](#books-general)
-	- [Active Trading and Speculation](#books-active-trading-and-speculation)
-	- [Valuation and Accounting Tricks](#books-valuation-and-accounting-tricks)
-	- [Financial History/Psychology](#books-financial-history-and-psychology)
-	- [Options](#books-options)
+    - [General Stock Market/Uncategorized](#books-general)
+    - [Active Trading and Speculation](#books-active-trading-and-speculation)
+    - [Valuation and Accounting Tricks](#books-valuation-and-accounting-tricks)
+    - [Financial History/Psychology](#books-financial-history-and-psychology)
+    - [Options](#books-options)
+- [CRYPTOCURRENCIES](#crypto)
 - [YOUTUBE CHANNELS](#youtube)
 - [TALKS/SPEECHES](#talks)
 - [STOCK MARKET MOVIES/DOCUMENTARIES](#movies-docs)
 - [TWITTER ACCOUNTS](#twitter)
-	- [Individual Accounts](#twitter-individual)
-	- [Research Focus](#twitter-research)
+    - [Individual Accounts](#twitter-individual)
+    - [Research Focus](#twitter-research)
 - [DEVELOPER RESOURCES/ALGO STUFF/APIs](#developers)
-	- [General Resources](#developers-general)
-	- [Algo Trading Engines](#developers-engines)
-	- [Data APIs](#developers-data)
+    - [General Resources](#developers-general)
+    - [Algo Trading Engines](#developers-engines)
+    - [Data APIs](#developers-data)
 - [BLOGS/DISCUSSION FORUMS/LIVE CHATS/MISC RESOURCES](#blogs)
 ---
 **<a id="getting-started"></a>GETTING STARTED:**
@@ -361,6 +358,11 @@ There are two general approaches to investing: active and passive. Active invest
 	- [The Only Options Trading Book You'll Ever Need](https://www.amazon.com/Options-Trading-Second-Option-Russell/dp/1945949511)
 ###### [TOC](#toc)
 ---
+###### [TOC](#toc)
+**<a id="crypto"></a>CRYPTOCURRENCIES:**
+- <a id="crypto"></a>General Crypto
+- ** [A Crypto Primer: Currencies, Commodities, Tokens](https://www.investopedia.com/tech/crypto-primer-currencies-commodities-tokens/)
+
 **<a id="youtube"></a>YOUTUBE CHANNELS:**
 - **[LazyFA - Lots of Educational Livestreams/Webinars](https://www.youtube.com/channel/UCQ9LMi4xPU1zCICplsAe7Jw/)**
 - **[Jose Najarro Stocks - Excellent Fundamental Analysis and Research](https://www.youtube.com/channel/UC5cEHfCr6WOE1R1zcohd1IA)**
