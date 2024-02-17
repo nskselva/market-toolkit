@@ -64,7 +64,6 @@ There are two general approaches to investing: active and passive. Active invest
 - [Investopedia SEC Filings You Need to Know](https://www.investopedia.com/articles/fundamental-analysis/08/sec-forms.asp)
 - **[The Balance - Investing for Beginners](https://www.thebalance.com/investing-for-beginners-4074004)**
 - [The Balance - Understanding Interest Rates](https://www.thebalance.com/what-is-interest-315436)
-- **[The Federal Open Who?](https://www.lazyfa.com/blog/2015/06/21/federal-open-who/)**
 - [Learn to Day Trade](https://www.youtube.com/watch?v=wNYdfbRZL_w&list=PLHwh3-YF4uak1x9ghKkKhAHHDwdAK-by3)
 - [/r/stocks Wiki](https://www.reddit.com/r/stocks/wiki/index)
 - [/r/stocks "Stick My Money Somewhere"](https://www.reddit.com/r/stocks/wiki/stick-my-money-somewhere)
@@ -118,7 +117,6 @@ There are two general approaches to investing: active and passive. Active invest
 - [Finviz Relative Performance by Industry](https://www.finviz.com/groups.ashx?g=industry&v=210&o=name)
 - [Finviz Relative Performance by Sector](https://www.finviz.com/groups.ashx?g=sector&v=210&o=name)
 - [Finviz Recent News](https://www.finviz.com/news.ashx)
-- **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
 - **[Barchart - Technical and Fundamental Analysis Tools](https://www.barchart.com)**
 - **[Koyfin - Free Comprehensive Market Data for Investors](https://www.koyfin.com/)**
 - [Wallmine](https://www.wallmine.com)
@@ -190,12 +188,10 @@ There are two general approaches to investing: active and passive. Active invest
 - **[The Balance - Analyzing a Balance Sheet](https://www.thebalance.com/analyzing-a-balance-sheet-4073648)**
 - **[Alhambra Investments Market Research](https://www.alhambrapartners.com/commentaryanalysis/)**
 - [/r/Stocks Fundamentals Wiki](https://www.reddit.com/r/stocks/wiki/fundamentals-themed-post)
-- **[LazyFA Knowledge Base](https://www.lazyfa.com/blog/)**
 - [MarketWatch - Guide to Analyst Recommendations](https://www.marketwatch.com/tools/guide.asp)
 ###### [TOC](#toc)
 ---
 **<a id="fa-tools"></a>FUNDAMENTAL ANALYSIS (Tools/Resources):**
-- **[LazyFA - Automated Fundamental Analysis](https://www.lazyfa.com/explore/)**
 - **[Finviz - Financial Visualizations](https://www.finviz.com)**
 - **[TipRanks - Analyst Ratings and Market Research](https://www.tipranks.com/)**
 - [Finbox](https://www.finbox.com)
@@ -214,7 +210,6 @@ There are two general approaches to investing: active and passive. Active invest
 ---
 **<a id="scanners"></a>SCANNERS, SCREENERS & IDEA GENERATION:**
 - **[Finviz Screener](https://finviz.com/screener.ashx)**
-- **[LazyFA Screener](https://www.lazyfa.com/screener)**
 - **[Tiingo Screener](https://www.tiingo.com/screener/overview)**
 - [Stockrow Screener](https://www.stockrow.com/screener/)
 - **[TradingView Screener](https://www.tradingview.com/screener/)**
@@ -243,7 +238,6 @@ There are two general approaches to investing: active and passive. Active invest
 	- [SEC Forms Index (PDF)](https://www.sec.gov/info/edgar/forms/edgform.pdf)
 	- **[SEC Forms List](https://www.sec.gov/forms)**
 	- **[BamSEC - Financial Research Made Easier](https://www.bamsec.com/)**
-	- **[LazyFA Market Events](https://www.lazyfa.com/events/)**
 	- [Intelligize SEC Forms Quick Reference Guide (PDF)](https://www.intelligize.com/wp-content/uploads/2017/09/intelligize_sec_forms_guide.pdf)
 	- [Investopedia SEC Filings You Need to Know](https://www.investopedia.com/articles/fundamental-analysis/08/sec-forms.asp)
 	- [Rank and Filed - SEC Filings for Humans](http://rankandfiled.com/#/)
@@ -253,7 +247,6 @@ There are two general approaches to investing: active and passive. Active invest
 	- [**10K & 10K/A** - Annual Reports](https://www.sec.gov/cgi-bin/current?q1=0&q2=0&q3=)
 	- [**10Q & 10Q/A** - Quarterly Reports](https://www.sec.gov/cgi-bin/current?q1=0&q2=0&q3=10-q)
 	- [**8K** - Material Events](https://www.sec.gov/cgi-bin/current?q1=0&q2=4&q3=8-K)
-	- [**8K** - Material Events, by Category](https://www.lazyfa.com/events/)
 	- [**S-*** - Securities Registration Statements](https://www.sec.gov/cgi-bin/current?q1=0&q2=5&q3=s-)
 	- [**EFFECT** - Effectiveness Notification for Securities Registration](https://www.sec.gov/cgi-bin/current?q1=0&q2=5&q3=effect)
 	- [**424B*** - Prospectus Supplements/Secondary Offerings](https://www.sec.gov/cgi-bin/current?q1=0&q2=0&q3=424b)
@@ -477,7 +470,6 @@ There are two general approaches to investing: active and passive. Active invest
 - [Estimize Earnings Calendar](https://www.estimize.com/calendar)
 - **[Investors Underground Blog](https://www.investorsunderground.com/blog/)**
 - **[Bulls on Wall Street Blog](https://www.bullsonwallstreet.com/blog/)**
-- **[LazyFA Blog](https://www.lazyfa.com/blog/)**
 - [Reddit /r/StockMarket](https://www.reddit.com/r/stockmarket)
 - [Reddit /r/Stocks](https://www.reddit.com/r/stocks)
 - [Reddit /r/Investing](https://www.reddit.com/r/investing)
