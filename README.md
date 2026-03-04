@@ -48,6 +48,7 @@ Alright, here we go:
 - [High Short Interest Stocks](https://www.highshortinterest.com/)
 - **[Shortsqueeze.com - Short Selling Resources](http://shortsqueeze.com/)**
 - [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
+- [iGotFomo - AI Stock Screener with Convergence Signals](https://igotfomo.com/) - AI-powered screener covering 6,000+ stocks with multi-signal convergence detection, options flow, backtesting, and free embeddable ticker widget
 ---
 **TRADE ANALYSIS & REVIEW:**
 - [Tradervue](https://www.tradervue.com/)
