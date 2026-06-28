@@ -74,6 +74,7 @@ Alright, here we go:
 - **[BamSEC - Financial Research Made Easier](https://www.bamsec.com/)**
 - **[LazyFA Market Events](https://www.lazyfa.com/events/)**
 - [Rank and Filed - SEC Filings for Humans](http://rankandfiled.com/#/)
+- [FilingFirehose - Free SEC Forensic Risk Score by Ticker](https://filingfirehose.com/)
 
 ---
 **PAID TRADING SERVICES/EDUCATION/CHAT ROOMS:**
