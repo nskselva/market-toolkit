@@ -48,6 +48,7 @@ Alright, here we go:
 - [High Short Interest Stocks](https://www.highshortinterest.com/)
 - **[Shortsqueeze.com - Short Selling Resources](http://shortsqueeze.com/)**
 - [FlowAlgo - Options Flow & Unusual Options Activity Scanner](https://www.flowalgo.com/)
+- [eStockes Smart Scan](https://estockes.com/scan) - Watchlist scans with chart evidence for supported conditions and a free fictional example.
 ---
 **TRADE ANALYSIS & REVIEW:**
 - [Tradervue](https://www.tradervue.com/)
